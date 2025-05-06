@@ -1,19 +1,16 @@
 package com.backend.rpl.model;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
 
 @Data
 @Entity
 @Table(name="rpl_players_time")
 public class Player {
     @Id
-    @Column(name = "Name", unique = true)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
+    private Long id;
     private String name;
 
     private String nation;
@@ -34,22 +31,23 @@ public class Player {
 
     private Integer subs;
 
-    private Integer unSub;
+    private Integer unsub;
 
     public Player() {
     }
 
-    public Player(String name, String nation, String pos, String squad, Integer age, Integer mp, Double min, Integer starts, Integer compl, Integer subs, Integer unSub) {
-        this.name = name;
-        this.nation = nation;
-        this.pos = pos;
-        this.squad = squad;
-        this.age = age;
-        this.mp = mp;
-        this.min = min;
-        this.starts = starts;
-        this.compl = compl;
+    public Player(Integer unsub, Integer subs, Integer compl, Integer starts, Double min, Integer mp, Integer age, String squad, String pos, String nation, String name, Long id) {
+        this.unsub = unsub;
         this.subs = subs;
-        this.unSub = unSub;
+        this.compl = compl;
+        this.starts = starts;
+        this.min = min;
+        this.mp = mp;
+        this.age = age;
+        this.squad = squad;
+        this.pos = pos;
+        this.nation = nation;
+        this.name = name;
+        this.id = id;
     }
 }
