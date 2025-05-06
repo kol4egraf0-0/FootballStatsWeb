@@ -43,7 +43,7 @@ public class PlayerService {
 
     public List<Player> getPlayerByNation(String nation) {
         return playerRepository.findAll().stream()
-                .filter(player -> player.getNation().toLowerCase().contains(nation.toLowerCase()))
+                .filter(player -> nation == null || (player.getNation() != null && player.getNation().toLowerCase().contains(nation.toLowerCase())))
                 .collect(Collectors.toList());
     }
 
