@@ -1,19 +1,18 @@
-import React from "react";
-import './Navbar.css'
+import { Link } from 'react-router-dom';
+import './Navbar.css';
 
-const Navbar = () =>{
-    return(
-       <header className="header">
-        <a href="/" className="logo">РПЛ Статистика игроков 23/24</a>
+const Navbar = () => {
+  return (
+    <header className="header">
+      <Link to="/" className="logo">РПЛ Статистика 23/24</Link>
+      <nav className="navbar">
+        <Link to="/">Главная</Link>
+        <Link to="/players">Игроки</Link>
+        <Link to="/teams">Команды</Link>
+        <Link to="/positions">Позиции</Link>
+      </nav>
+    </header>
+  );
+};
 
-        <nav className="navbar">
-            <a href="/">Главная</a>
-            <a href="/">Игроки</a>
-            <a href="/">Команды</a>
-            <a href="/">Позиции</a>
-        </nav>
-       </header>
-    )
-}
-
-export default Navbar
+export default Navbar;
