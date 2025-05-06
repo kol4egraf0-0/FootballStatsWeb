@@ -1,0 +1,578 @@
+﻿Rk,Player,Nation,Pos,Squad,Age,MP,Min,Starts,Compl,Subs,unSub
+1,Arsen Adamov,ru RUS,DF,Orenburg,23,24,1883.0,22,17,2,0
+2,Arsen Adamov,ru RUS,DF,Zenit,23,1,1.0,0,0,1,0
+3,Denis Adamov,ru RUS,GK,Sochi,25,0,,0,0,0,1
+4,Denis Adamov,ru RUS,GK,Zenit,25,9,810.0,9,9,0,20
+5,Gamid Agalarov,ru RUS,FW,Akhmat Grozny,23,19,593.0,5,0,14,2
+6,Ilya Agapov,ru RUS,"DF,MF",CSKA Moscow,22,16,933.0,11,6,5,10
+7,Solomon Agbalaka,ng NGA,MF,Sochi,19,1,90.0,1,1,0,11
+8,Stanislav Agkatsev,ru RUS,GK,Krasnodar,21,1,45.0,0,0,1,29
+9,Sid Ahmed Aissaoui,dz ALG,MF,CSKA Moscow,18,0,,0,0,0,12
+10,Roman Akbashev,ru RUS,"MF,FW",Fakel Voronezh,31,12,580.0,6,1,6,0
+11,Roman Akbashev,ru RUS,MF,Rostov,31,6,255.0,2,0,4,9
+12,Mikail Akhmedov,ru RUS,DF,Akhmat Grozny,19,0,,0,0,0,4
+13,Ilzat Akhmetov,ru RUS,"MF,FW",Krasnodar,25,15,514.0,5,0,10,3
+14,Ilzat Akhmetov,ru RUS,MF,Zenit,25,2,30.0,0,0,2,7
+15,Igor Akinfeev,ru RUS,GK,CSKA Moscow,37,25,2250.0,25,25,0,5
+16,Viktor Aleksandrov,ru RUS,DF,Nizhny Novgorod,21,24,2067.0,24,21,0,3
+17,Nuraly Alip,kz KAZ,DF,Zenit,23,25,1663.0,18,12,7,4
+18,Júnior Alonso,py PAR,DF,Krasnodar,30,29,2610.0,29,29,0,0
+19,Ilnur Alshin,ru RUS,"MF,DF",Fakel Voronezh,29,29,2314.0,29,13,0,1
+20,Marcelo Alves,br BRA,DF,Sochi,25,25,2150.0,24,22,1,3
+21,Kevin Andrade,co COL,DF,FC Baltika Kaliningrad,24,12,1035.0,12,11,0,0
+22,Victorien Angban,ci CIV,MF,Sochi,26,7,192.0,0,0,7,15
+23,Danil Anosov,ru RUS,MF,Sochi,18,3,70.0,0,0,3,11
+24,Khyzyr Appayev,ru RUS,FW,Fakel Voronezh,33,28,2137.0,25,12,3,1
+25,Marat Apshatsev,ru RUS,MF,Rubin Kazan,22,8,260.0,3,0,5,22
+26,Yaroslav Arbuzov,ru RUS,MF,CSKA Moscow,19,2,10.0,0,0,2,6
+27,Yaroslav Arbuzov,ru RUS,MF,FC Baltika Kaliningrad,19,0,,0,0,0,2
+28,Artur,br BRA,"FW,MF",Zenit,25,11,659.0,8,1,3,0
+29,Rasil Asaydulin,ru RUS,FW,Samara,19,0,,0,0,0,4
+30,Rustam Ashurmatov,uz UZB,DF,Rubin Kazan,27,14,737.0,8,6,6,15
+31,Eyad El Askalani,eg EGY,DF,Rostov,18,4,110.0,1,0,3,3
+32,Yahya Attiat Allah,ma MAR,DF,Sochi,28,10,500.0,5,1,5,1
+33,Tigran Avanesyan,am ARM,MF,FC Baltika Kaliningrad,21,7,88.0,0,0,7,23
+34,Timur Ayupov,ru RUS,MF,Ural,30,24,1337.0,15,2,9,5
+35,Imran Aznaurov,ru RUS,FW,Rostov,18,3,59.0,1,0,2,6
+36,Srđan Babić,rs SRB,DF,Spartak Moscow,27,17,1437.0,16,15,1,3
+37,Sergey Babkin,ru RUS,MF,Samara,20,19,1108.0,15,0,4,0
+38,Valeryj Bačaroŭ,by BLR,MF,Ural,22,4,185.0,2,1,2,5
+39,Abdulla Bagamaev,ru RUS,MF,Fakel Voronezh,18,7,105.0,1,0,6,23
+40,Luka Bagateliia,ru RUS,MF,Fakel Voronezh,19,3,29.0,0,0,3,9
+41,Soltmurad Bakaev,ru RUS,"FW,MF",Rubin Kazan,23,1,1.0,0,0,1,6
+42,Zelimkhan Bakayev,ru RUS,MF,Zenit,27,4,132.0,2,0,2,4
+43,Fabián Balbuena,py PAR,DF,Dynamo Mosc,31,26,2270.0,25,25,1,1
+44,Keita Baldé,sn SEN,"FW,MF",Spartak Moscow,28,2,18.0,0,0,2,2
+45,Mihajlo Banjac,rs SRB,MF,Krasnodar,23,18,269.0,1,0,17,12
+46,Mateo Barać,hr CRO,DF,Samara,29,6,193.0,2,2,4,11
+47,Matvey Bardachev,ru RUS,DF,Zenit,17,0,,0,0,0,7
+48,Dmitri Barinov,ru RUS,MF,Loko Moscow,26,27,2389.0,27,24,0,0
+49,Dmitry Barkov,ru RUS,FW,FC Baltika Kaliningrad,31,1,45.0,1,0,0,6
+50,Nikolay Barovskiy,ru RUS,GK,CSKA Moscow,16,0,,0,0,0,3
+51,Wílmar Barrios,co COL,MF,Zenit,29,29,2564.0,29,24,0,0
+52,Ivan Bašić,ba BIH,MF,Orenburg,21,29,1765.0,21,12,8,1
+53,Aleksei Batrakov,ru RUS,MF,Loko Moscow,18,5,361.0,4,2,1,7
+54,Batxi,ao ANG,"FW,MF",Krasnodar,25,29,2079.0,24,6,5,0
+55,Amir Batyrev,ru RUS,"MF,FW",Sochi,21,12,586.0,6,3,6,6
+56,Khoren Bayramyan,am ARM,"FW,MF",Rostov,31,27,1642.0,19,3,8,2
+57,Silvije Begić,hr CRO,DF,Ural,30,26,2294.0,25,24,1,0
+58,Aleksandr Belenov,ru RUS,GK,Fakel Voronezh,36,24,2160.0,24,24,0,5
+59,Danil Beltyukov,ru RUS,GK,Samara,20,0,,0,0,0,7
+60,Bernard Berisha,xk KVX,"MF,FW",Akhmat Grozny,31,26,1559.0,19,4,7,0
+61,Stanislav Bessmertnyi,ru RUS,DF,Dynamo Mosc,19,4,213.0,3,1,1,15
+62,Mingiyan Beveyev,ru RUS,"DF,MF",Ural,27,18,1068.0,11,7,7,12
+63,Ruslan Bezrukov,ru RUS,"MF,DF",Rubin Kazan,21,19,1331.0,15,9,4,9
+64,Eric Bicfalvi,ro ROU,"MF,FW",Ural,35,22,1108.0,10,4,12,0
+65,Luka Bijelovic,rs SRB,FW,Rubin Kazan,22,0,,0,0,0,10
+66,Glenn Bijl,nl NED,DF,Samara,28,18,1562.0,18,13,0,0
+67,Kristijan Bistrović,hr CRO,MF,FC Baltika Kaliningrad,25,23,1933.0,22,18,1,0
+68,Bitelo,br BRA,"MF,FW",Dynamo Mosc,23,23,1755.0,19,9,4,0
+69,Ivan Bober,ru RUS,MF,Samara,17,0,,0,0,0,13
+70,Miroslav Bogosavac,rs SRB,"DF,MF",Akhmat Grozny,26,27,2084.0,23,16,4,0
+71,Theo Bongonda,cd COD,"MF,FW",Spartak Moscow,27,25,1395.0,16,3,9,2
+72,Kady Borges,br BRA,"MF,FW",Krasnodar,27,26,1257.0,15,0,11,2
+73,Maksim Borisko,ru RUS,GK,FC Baltika Kaliningrad,23,3,177.0,2,1,1,24
+74,Vitalii Botnar,ru RUS,GK,Nizhny Novgorod,22,0,,0,0,0,18
+75,Kirill Bozhenov,ru RUS,DF,Nizhny Novgorod,22,6,151.0,1,0,5,5
+76,Sergei Bozhin,ru RUS,DF,Fakel Voronezh,28,26,2340.0,26,26,0,0
+77,Nikita Bozov,ru RUS,DF,Spartak Moscow,18,1,26.0,0,0,1,0
+78,Sergei Bryzgalov,ru RUS,DF,Fakel Voronezh,30,10,632.0,8,6,2,16
+79,Dmitriy Burkin,ru RUS,DF,Ural,19,0,,0,0,0,9
+80,Nikita Burmistrov,ru RUS,"MF,FW",Sochi,34,24,1154.0,10,7,14,5
+81,Artem Bykovskiy,ru RUS,FW,Spartak Moscow,19,0,,0,0,0,1
+82,Marat Bystrov,kz KAZ,DF,Akhmat Grozny,31,3,102.0,2,1,1,13
+83,Alejandro Cabeza,ec ECU,FW,Sochi,26,1,11.0,0,0,1,1
+84,Camilo,br BRA,MF,Akhmat Grozny,24,25,1637.0,18,13,7,1
+85,Roberto Carlos Fernández,bo BOL,"DF,MF",FC Baltika Kaliningrad,24,29,2249.0,27,13,2,0
+86,Jorge Carrascal,co COL,MF,Dynamo Mosc,25,23,1485.0,17,3,6,1
+87,Mateo Cassierra,co COL,FW,Zenit,26,28,2294.0,27,12,1,0
+88,Kevin Castaño,co COL,MF,Krasnodar,22,9,531.0,6,0,3,3
+89,Thabo Cele,za RSA,MF,Fakel Voronezh,26,9,229.0,0,0,9,15
+90,Jasmin Čeliković,ba BIH,DF,Akhmat Grozny,24,22,1875.0,22,19,0,0
+91,Ronaldo Cesar,br BRA,FW,Rostov,22,12,1022.0,12,6,0,0
+92,Fyodor Chalov,ru RUS,"FW,MF",CSKA Moscow,25,29,2065.0,23,10,6,1
+93,Artem Chalyi,ru RUS,MF,Samara,19,0,,0,0,0,4
+94,Luis Chávez,mx MEX,MF,Dynamo Mosc,27,23,1820.0,21,10,2,0
+95,Aleksandr Chernikov,ru RUS,MF,Krasnodar,23,27,2338.0,27,21,0,0
+96,Nikita Chernov,ru RUS,DF,Spartak Moscow,27,17,889.0,9,9,8,11
+97,Yevgeni Chernov,ru RUS,DF,Rostov,30,23,1677.0,19,10,4,3
+98,Daniil Chernyakov,ru RUS,MF,Fakel Voronezh,22,0,,0,0,0,2
+99,Vasili Cherov,ru RUS,DF,Fakel Voronezh,27,24,1975.0,23,18,1,1
+100,Makar Chirkov,ru RUS,DF,Sochi,18,0,,0,0,0,1
+101,Dmitri Chistyakov,ru RUS,DF,Sochi,29,6,291.0,3,1,3,6
+102,Dmitri Chistyakov,ru RUS,DF,Zenit,29,5,145.0,3,1,2,10
+103,Aleksandr Chupayov,ru RUS,FW,Dynamo Mosc,18,1,1.0,0,0,1,3
+104,Ibrahima Cissé,gn GUI,MF,Ural,29,21,1324.0,18,4,3,6
+105,Claudinho,br BRA,MF,Zenit,26,30,2357.0,28,9,2,0
+106,Jhon Córdoba,co COL,FW,Krasnodar,30,27,2415.0,27,23,0,0
+107,Sergio Córdova,ve VEN,FW,Sochi,25,10,522.0,5,2,5,0
+108,Fernando Costanza,br BRA,"MF,DF",Samara,24,26,2312.0,26,23,0,0
+109,Justin Cuero,ec ECU,FW,Orenburg,19,13,225.0,0,0,13,12
+110,Nikola Čumić,rs SRB,"MF,FW",Rubin Kazan,24,11,775.0,9,3,2,0
+111,Mirlind Daku,al ALB,FW,Rubin Kazan,25,28,2454.0,28,24,0,0
+112,Eli Dasa,il ISR,DF,Dynamo Mosc,30,20,1601.0,17,16,3,4
+113,Moses David Cobnan,ng NGA,FW,Krasnodar,20,10,194.0,2,0,8,20
+114,Víctor Dávila,cl CHI,"FW,MF",CSKA Moscow,25,23,969.0,12,1,11,2
+115,Aleksandr Degtev,ru RUS,GK,Sochi,18,1,90.0,1,1,0,12
+116,Daniil Denisov,ru RUS,"DF,MF",Spartak Moscow,20,20,1582.0,18,13,2,10
+117,Zaim Divanović,me MNE,MF,Akhmat Grozny,22,6,195.0,1,0,5,1
+118,Igor Diveev,ru RUS,DF,CSKA Moscow,23,10,867.0,9,9,1,0
+119,Igor Dmitriev,ru RUS,"MF,FW",Ural,19,26,1189.0,11,3,15,3
+120,Aleksandr Dolgov,ru RUS,FW,Fakel Voronezh,24,9,211.0,0,0,9,6
+121,Vyacheslav Dorovskikh,ru RUS,GK,Fakel Voronezh,19,0,,0,0,0,13
+122,Uroš Drezgić,rs SRB,MF,Rubin Kazan,20,0,,0,0,0,16
+123,Vanja Drkušič,si SVN,DF,Sochi,23,23,1809.0,22,16,1,2
+124,Alexis Duarte,py PAR,DF,Spartak Moscow,23,27,2291.0,26,23,1,1
+125,Aslan Dudiyev,ru RUS,"DF,MF",FC Baltika Kaliningrad,33,13,159.0,0,0,13,5
+126,Yuri Dyupin,ru RUS,GK,Rubin Kazan,35,29,2610.0,29,29,0,0
+127,Soslan Dzhanayev,ru RUS,GK,FC Baltika Kaliningrad,36,3,208.0,2,2,1,10
+128,Georgi Dzhikiya,ru RUS,DF,Spartak Moscow,29,8,525.0,6,4,2,16
+129,Artem Dzyuba,ru RUS,FW,Loko Moscow,34,21,1411.0,17,8,4,3
+130,Aleksandr Ektov,ru RUS,"DF,MF",Krasnodar,27,12,130.0,0,0,12,16
+131,Emmersón,cg CGO,DF,Ural,27,17,1280.0,14,13,3,13
+132,Strahinja Eraković,rs SRB,DF,Zenit,22,27,2338.0,25,23,2,0
+133,Nikita Ermakov,ru RUS,"MF,FW",Nizhny Novgorod,20,12,564.0,5,2,7,0
+134,Nikita Ermakov,ru RUS,MF,CSKA Moscow,20,5,74.0,0,0,5,13
+135,Aleksandr Erokhin,ru RUS,FW,Zenit,33,18,299.0,2,0,16,11
+136,Ededem Essien,ng NGA,MF,Nizhny Novgorod,25,6,211.0,2,0,4,9
+137,Semen Fadeev,ru RUS,GK,Spartak Moscow,18,0,,0,0,0,1
+138,Joel Fameyeh,gh GHA,FW,Rubin Kazan,26,15,745.0,8,3,7,1
+139,Joel Fameyeh,gh GHA,FW,FC Baltika Kaliningrad,26,3,266.0,3,2,0,0
+140,Lucas Fasson,br BRA,DF,Loko Moscow,22,21,1748.0,20,19,1,5
+141,Abbosbek Fayzullayev,uz UZB,"FW,MF",CSKA Moscow,19,22,1623.0,18,11,4,3
+142,Alex Fernandes,br BRA,"FW,MF",FC Baltika Kaliningrad,21,12,870.0,12,3,0,0
+143,Mário Fernandes,ru RUS,"DF,MF",Zenit,32,12,689.0,9,0,3,1
+144,Roberto Fernández,py PAR,DF,Dynamo Mosc,23,22,1980.0,22,22,0,6
+145,Egor Filipenko,by BLR,DF,Ural,35,16,1134.0,14,9,2,8
+146,Gabriel Florentín,ar ARG,MF,Orenburg,24,24,1824.0,21,13,3,1
+147,Daniil Fomin,ru RUS,MF,Dynamo Mosc,26,25,1786.0,19,17,6,0
+148,Evgenii Frolov,ru RUS,GK,Samara,35,0,,0,0,0,30
+149,Luka Gagnidze,ge GEO,MF,Dynamo Mosc,20,10,202.0,1,0,9,17
+150,Adolfo Gaich,ar ARG,FW,CSKA Moscow,24,4,44.0,0,0,4,2
+151,Milan Gajić,rs SRB,"MF,DF",CSKA Moscow,27,26,2232.0,25,24,1,0
+152,Artur Galoyan,am ARM,MF,FC Baltika Kaliningrad,24,16,791.0,9,2,7,2
+153,Ilya Gaponov,ru RUS,DF,Samara,25,13,851.0,9,9,4,9
+154,Benjamín Garré,ar ARG,MF,Samara,23,20,1513.0,18,9,2,0
+155,Nathan Gassama,fr FRA,DF,FC Baltika Kaliningrad,22,15,1260.0,14,12,1,3
+156,Danila Gayvoronskiy,ru RUS,DF,Krasnodar,19,0,,0,0,0,7
+157,Yuri Gazinskiy,ru RUS,MF,Ural,34,7,175.0,2,0,5,4
+158,Néné Gbamblé,ci CIV,MF,Akhmat Grozny,21,6,41.0,0,0,6,9
+159,Nader Ghandri,tn TUN,DF,Akhmat Grozny,28,12,1040.0,12,11,0,0
+160,Mohammed Ghorbani,ir IRN,MF,Orenburg,22,11,561.0,6,2,5,1
+161,Yaroslav Gladyshev,ru RUS,"MF,FW",Dynamo Mosc,20,14,420.0,4,0,10,15
+162,Danil Glebov,ru RUS,MF,Rostov,23,30,2686.0,30,29,0,0
+163,Kirill Glebov,ru RUS,MF,CSKA Moscow,17,10,221.0,3,0,7,13
+164,Kirill Glushchenkov,ru RUS,"DF,FW",Nizhny Novgorod,23,8,480.0,6,4,2,4
+165,Maksim Glushenkov,ru RUS,"MF,FW",Loko Moscow,24,29,2201.0,26,8,3,0
+166,Leo Goglichidze,ru RUS,DF,Orenburg,26,19,1580.0,17,16,2,10
+167,Gocha Gogrichiani,ru RUS,FW,FC Baltika Kaliningrad,23,0,,0,0,0,1
+168,Nikita Goilo,ru RUS,GK,Sochi,24,6,540.0,6,6,0,11
+169,Nikita Goilo,ru RUS,GK,Zenit,24,0,,0,0,0,1
+170,Renato Gojković,ba BIH,DF,Orenburg,27,15,1295.0,14,14,1,6
+171,Yegor Golenkov,ru RUS,FW,Rostov,24,30,1713.0,20,5,10,0
+172,Daniil Golikov,ru RUS,GK,Krasnodar,19,0,,0,0,0,4
+173,Renat Golybin,ru RUS,MF,CSKA Moscow,17,1,1.0,0,0,1,0
+174,Yuri Gorshkov,ru RUS,DF,Samara,24,29,2438.0,27,21,2,0
+175,Kirill Gotsuk,ru RUS,DF,Nizhny Novgorod,30,25,2243.0,25,23,0,0
+176,Ilya Gribakin,ru RUS,MF,Samara,19,0,,0,0,0,4
+177,Aleksei Gritsayenko,ru RUS,DF,Rubin Kazan,28,29,2610.0,29,29,0,0
+178,Vyacheslav Grulyov,ru RUS,MF,Dynamo Mosc,24,18,237.0,1,0,17,6
+179,Saúl Guarirapa,ve VEN,FW,Sochi,20,10,782.0,9,7,1,2
+180,Vitali Gudiyev,ru RUS,GK,Fakel Voronezh,28,6,540.0,6,6,0,24
+181,Emircan Gürlük,tr TUR,FW,Orenburg,19,15,480.0,4,0,11,6
+182,Gedeon Guzina,ba BIH,FW,FC Baltika Kaliningrad,29,18,1217.0,16,6,2,2
+183,Saïd Hamulic,ba BIH,FW,Loko Moscow,22,1,16.0,0,0,1,4
+184,Georgi Harutyunyan,am ARM,DF,Krasnodar,18,4,302.0,2,2,2,25
+185,Ángelo Henríquez,cl CHI,FW,FC Baltika Kaliningrad,29,26,1392.0,15,3,11,4
+186,Turpal Ibishev,ru RUS,DF,Akhmat Grozny,21,3,194.0,2,2,1,7
+187,German Ignatov,ru RUS,DF,Rostov,17,0,,0,0,0,13
+188,Mikhail Ignatov,ru RUS,"MF,FW",Spartak Moscow,23,24,1085.0,12,1,12,4
+189,Ivan Ignatyev,ru RUS,FW,Sochi,24,12,524.0,5,0,7,6
+190,Vladimir Ilyin,ru RUS,"MF,FW",Akhmat Grozny,31,20,1471.0,18,7,2,0
+191,Aleksei Ionov,ru RUS,FW,Ural,34,12,653.0,6,0,6,0
+192,Aleksei Ionov,ru RUS,FW,Rostov,34,14,725.0,11,0,3,2
+193,Ilya Ishkov,ru RUS,"MF,FW",Ural,18,27,1152.0,11,3,16,3
+194,Wilson Isidor,fr FRA,MF,Loko Moscow,22,4,147.0,1,0,3,1
+195,Wilson Isidor,fr FRA,FW,Zenit,22,14,424.0,4,0,10,8
+196,Artem Ismagilov,ru RUS,GK,Rubin Kazan,19,0,,0,0,0,7
+197,Ítalo,br BRA,DF,Ural,21,24,1967.0,22,19,2,1
+198,Matvey Ivakhnov,fj FIJ,FW,Fakel Voronezh,20,2,28.0,0,0,2,11
+199,Dmytro Ivanisenya,ua UKR,MF,Samara,29,15,429.0,4,0,11,10
+200,Oleg Ivanov,ru RUS,MF,Rubin Kazan,36,10,135.0,1,0,9,11
+201,Andrei Ivlev,ru RUS,MF,Fakel Voronezh,16,0,,0,0,0,21
+202,Uguchukwu Iwu,am ARM,MF,Rubin Kazan,23,26,2229.0,24,24,2,0
+203,Antonio Jakoliš,hr CRO,"FW,MF",Fakel Voronezh,31,5,37.0,0,0,5,9
+204,Darko Jevtić,ch SUI,"FW,MF",Rubin Kazan,30,2,5.0,0,0,2,1
+205,Ruslanbek Jiyanov,uz UZB,FW,Nizhny Novgorod,22,0,,0,0,0,6
+206,Bogdan Jocic,rs SRB,MF,Rubin Kazan,22,6,310.0,4,1,2,5
+207,Daniel Jr,br BRA,MF,Akhmat Grozny,21,4,118.0,1,0,3,6
+208,Aleksandar Jukic,at AUT,"MF,FW",Sochi,23,12,992.0,12,6,0,0
+209,Dmitri Kabutov,ru RUS,"MF,DF",Rubin Kazan,31,28,2498.0,28,23,0,0
+210,Nikita Kakkoyev,ru RUS,"DF,MF",Nizhny Novgorod,23,25,2007.0,22,18,3,1
+211,Dmitrii Kalaida,ru RUS,MF,Nizhny Novgorod,18,0,,0,0,0,6
+212,Ihor Kalinin,ua UKR,"DF,MF",Fakel Voronezh,27,15,902.0,9,6,6,6
+213,Nikolay Kalinsky,ru RUS,MF,Nizhny Novgorod,29,28,2250.0,27,15,1,1
+214,Vladislav Kamilov,ru RUS,MF,Akhmat Grozny,27,20,1133.0,11,5,9,9
+215,Anton Kamyshenko,ru RUS,FW,Sochi,17,0,,0,0,0,1
+216,Arciom Kancavy,by BLR,MF,Ural,23,4,44.0,0,0,4,4
+217,Kirill Kaplenko,by BLR,MF,Orenburg,24,12,770.0,9,3,3,1
+218,Kirill Kaplenko,by BLR,MF,FC Baltika Kaliningrad,24,11,514.0,5,1,6,1
+219,Vladislav Karapuzov,ru RUS,"DF,MF",Dynamo Mosc,23,1,17.0,0,0,1,0
+220,Vladislav Karapuzov,ru RUS,"DF,MF",Nizhny Novgorod,23,22,1422.0,16,5,6,3
+221,Vyacheslav Karavayev,ru RUS,DF,Zenit,28,23,1720.0,19,6,4,0
+222,Jahor Karpicki,by BLR,FW,Samara,19,10,232.0,3,0,7,17
+223,Artem Karpukas,ru RUS,MF,Loko Moscow,21,23,1590.0,20,7,3,0
+224,Timofey Kashintsev,ru RUS,GK,Sochi,18,0,,0,0,0,8
+225,Nikita Kashtan,ru RUS,MF,Rostov,19,0,,0,0,0,1
+226,Aleksei Kashtanov,ru RUS,FW,Ural,27,26,1210.0,14,0,12,2
+227,Yury Kavalyow,by BLR,FW,Orenburg,30,11,437.0,6,0,5,6
+228,Yury Kavalyow,by BLR,MF,FC Baltika Kaliningrad,30,12,875.0,11,1,1,0
+229,Yan Kazayev,ru RUS,MF,FC Baltika Kaliningrad,31,9,531.0,6,3,3,6
+230,Aleksei Kenyaikin,ru RUS,GK,Orenburg,24,3,270.0,3,3,0,25
+231,Mikhail Kerzhakov,ru RUS,GK,Zenit,36,20,1800.0,20,20,0,8
+232,Evgenii Kharin,ru RUS,"DF,MF",Akhmat Grozny,28,16,889.0,10,7,6,0
+233,Khellven,br BRA,"MF,DF",CSKA Moscow,22,23,1819.0,21,15,2,1
+234,Astemir Khezhev,ru RUS,DF,Sochi,18,1,5.0,0,0,1,0
+235,Daniil Khlusevich,ru RUS,"DF,MF",Spartak Moscow,22,25,1917.0,21,18,4,1
+236,Andrey Khodanovich,ru RUS,GK,Orenburg,18,1,90.0,1,1,0,8
+237,Danila Khotulev,ru RUS,DF,Orenburg,20,14,1215.0,13,13,1,16
+238,Vladimir Khubulov,ru RUS,FW,Samara,22,14,454.0,5,0,9,4
+239,Daniil Khudiakov,ru RUS,GK,Loko Moscow,19,0,,0,0,0,28
+240,Ilya Kirsch,ru RUS,DF,Rostov,18,0,,0,0,0,15
+241,Matvei Kisliak,ru RUS,MF,CSKA Moscow,18,3,64.0,1,0,2,26
+242,Leon Klassen,ru RUS,DF,Spartak Moscow,23,5,187.0,2,0,3,21
+243,Danila Knyazev,ru RUS,MF,Orenburg,20,0,,0,0,0,2
+244,Aleksandr Koksharov,ru RUS,FW,Krasnodar,18,6,173.0,1,0,5,7
+245,Aleksey Koltakov,ru RUS,MF,Rostov,17,5,20.0,0,0,5,7
+246,Ivan Komarov,ru RUS,FW,Rostov,20,16,398.0,3,0,13,13
+247,Nikolay Komlichenko,ru RUS,FW,Rostov,28,25,1265.0,11,7,14,0
+248,Mohamed Konaté,bf BFA,FW,Akhmat Grozny,25,29,1871.0,21,10,8,0
+249,Igor Konovalov,ru RUS,MF,Rubin Kazan,27,1,13.0,0,0,1,6
+250,Ivan Konovalov,ru RUS,GK,FC Baltika Kaliningrad,28,0,,0,0,0,12
+251,Nikita Korets,ru RUS,GK,Rubin Kazan,18,0,,0,0,0,2
+252,Daniil Kornyushin,ru RUS,DF,Nizhny Novgorod,21,0,,0,0,0,2
+253,Georgiy Korolev,ru RUS,GK,Zenit,19,0,,0,0,0,4
+254,Aleksandr Koryakin,ru RUS,GK,FC Baltika Kaliningrad,21,0,,0,0,0,5
+255,Mikhail Kostyukov,ru RUS,"FW,MF",Rubin Kazan,31,0,,0,0,0,3
+256,Svetoslav Kovachev,bg BUL,"MF,FW",Akhmat Grozny,25,24,1082.0,12,0,12,4
+257,Aleksandr Kovalenko,ru RUS,MF,Zenit,19,6,67.0,0,0,6,24
+258,Danila Kozlov,ru RUS,"MF,FW",FC Baltika Kaliningrad,18,10,787.0,9,7,1,1
+259,Martin Kramarič,si SVN,"FW,MF",Sochi,25,22,1820.0,22,14,0,3
+260,Kirill Kravtsov,ru RUS,MF,Sochi,21,26,2141.0,25,20,1,1
+261,Nikita Krivtsov,ru RUS,MF,Krasnodar,20,30,1649.0,21,1,9,0
+262,Danil Krugovoy,ru RUS,"DF,MF",Zenit,25,12,493.0,5,3,7,6
+263,Konstantin Kuchayev,ru RUS,"MF,FW",Nizhny Novgorod,25,9,590.0,8,2,1,1
+264,Konstantin Kuchayev,ru RUS,MF,CSKA Moscow,25,12,376.0,4,0,8,3
+265,Andrej Kudraviec,by BLR,GK,Dynamo Mosc,19,0,,0,0,0,5
+266,Fyodor Kudryashov,ru RUS,DF,Fakel Voronezh,36,10,644.0,8,5,2,5
+267,Ilya Kukharchuk,ru RUS,"FW,DF",Nizhny Novgorod,32,16,441.0,5,0,11,6
+268,Ivan Kukushkin,ru RUS,GK,Nizhny Novgorod,21,1,90.0,1,1,0,29
+269,Denys Kulakov,ua UKR,"DF,MF",Ural,37,26,2188.0,26,21,0,3
+270,Daniil Kulikov,ru RUS,MF,Loko Moscow,25,4,125.0,1,0,3,14
+271,Ilya Kuptsov,ru RUS,GK,Dynamo Mosc,21,0,,0,0,0,14
+272,Nikoloz Kutateladze,ge GEO,FW,Nizhny Novgorod,22,18,619.0,6,0,12,3
+273,Aleksandr Kutitskiy,ru RUS,DF,Dynamo Mosc,21,4,45.0,0,0,4,16
+274,Ivan Kuzmichev,ru RUS,DF,Loko Moscow,22,3,270.0,3,3,0,14
+275,Maksim Kuzmin,ru RUS,"MF,FW",FC Baltika Kaliningrad,27,26,1150.0,14,1,12,1
+276,Daniil Kuznetsov,ru RUS,"FW,MF",Rubin Kazan,20,3,228.0,3,1,0,13
+277,Irakli Kvekveskiri,ge GEO,MF,Fakel Voronezh,33,29,2445.0,28,21,1,0
+278,Maksim Laikin,ru RUS,MF,Spartak Moscow,20,2,2.0,0,0,2,8
+279,João Lameira,pt POR,MF,FC Baltika Kaliningrad,24,2,27.0,0,0,2,16
+280,Andrey Langovich,ru RUS,DF,Rostov,20,22,1022.0,10,5,12,3
+281,Ilya Lantratov,ru RUS,GK,Loko Moscow,27,30,2700.0,30,30,0,0
+282,Yevgeni Latyshonok,ru RUS,GK,FC Baltika Kaliningrad,25,26,2315.0,26,25,0,1
+283,Diego Laxalt,uy URU,MF,Dynamo Mosc,30,24,2030.0,23,20,1,1
+284,Vladislav Lazarev,ru RUS,DF,FC Baltika Kaliningrad,21,8,195.0,0,0,8,11
+285,Ivan Lepskii,ru RUS,DF,Dynamo Mosc,18,1,70.0,1,0,0,11
+286,Igor Leshchuk,ru RUS,GK,Dynamo Mosc,27,15,1350.0,15,15,0,15
+287,Daniil Lesovoy,ru RUS,MF,Dynamo Mosc,25,8,88.0,1,0,7,10
+288,Vitaly Lisakovich,by BLR,FW,Rubin Kazan,25,3,85.0,0,0,3,2
+289,Vitaly Lisakovich,by BLR,"FW,MF",FC Baltika Kaliningrad,25,12,840.0,10,3,2,0
+290,Ruslan Litvinov,ru RUS,"MF,DF",Spartak Moscow,21,24,1430.0,15,6,9,3
+291,Vyacheslav Litvinov,ru RUS,"DF,MF",Sochi,22,21,1210.0,12,8,9,6
+292,Ivan Lomaev,ru RUS,GK,Samara,24,21,1890.0,21,21,0,6
+293,Aleksandr Lomovitskiy,ru RUS,"DF,MF",Rubin Kazan,25,14,469.0,5,3,9,9
+294,Lucas Lovat,br BRA,"DF,MF",Akhmat Grozny,26,11,590.0,6,3,5,0
+295,Matvei Lukin,ru RUS,DF,CSKA Moscow,19,5,351.0,4,3,1,21
+296,Vadim Lukyanov,ru RUS,GK,Nizhny Novgorod,20,0,,0,0,0,12
+297,Diego Luna,ve VEN,DF,FC Baltika Kaliningrad,23,12,1043.0,12,9,0,0
+298,Aleksei Lysov,ru RUS,DF,Samara,18,0,,0,0,0,13
+299,Ruslan Magal,ru RUS,"MF,DF",Fakel Voronezh,31,26,1760.0,19,8,7,3
+300,Stanislav Magkeev,ru RUS,"DF,MF",Loko Moscow,24,0,,0,0,0,11
+301,Yakhya Magomedov,ru RUS,GK,Akhmat Grozny,16,0,,0,0,0,6
+302,Mamadou Maiga,ml MLI,MF,Nizhny Novgorod,28,20,1781.0,20,17,0,2
+303,Milan Majstorović,rs SRB,DF,Dynamo Mosc,18,1,32.0,0,0,1,10
+304,Artyom Makarchuk,ru RUS,"MF,DF",Sochi,27,28,1935.0,23,14,5,2
+305,Denis Makarov,ru RUS,"MF,FW",Dynamo Mosc,25,21,825.0,10,0,11,5
+306,Artur Maksetsov,ru RUS,DF,Rostov,19,0,,0,0,0,1
+307,Aleksandr Maksimenko,ru RUS,GK,Spartak Moscow,25,24,2115.0,23,23,1,5
+308,Maksim Maksimov,ru RUS,FW,Fakel Voronezh,27,21,610.0,5,1,16,8
+309,Malcom,br BRA,"FW,MF",Zenit,26,0,,0,0,0,1
+310,Vladislav Malkevich,by BLR,"MF,DF",Ural,23,11,668.0,6,5,5,4
+311,Kirill Malyarov,ru RUS,"DF,MF",FC Baltika Kaliningrad,26,20,1122.0,11,7,9,7
+312,Andrei Malykh,ru RUS,"DF,FW",Orenburg,34,2,23.0,0,0,2,12
+313,Aleksei Mamin,ru RUS,GK,Ural,24,1,90.0,1,1,0,29
+314,Artyom Mamin,ru RUS,DF,Ural,26,13,793.0,9,7,4,6
+315,Braian Mansilla,ar ARG,"FW,MF",Orenburg,26,27,2063.0,26,9,1,0
+316,Gustavo Mantuan,br BRA,"MF,FW",Zenit,22,26,1238.0,14,2,12,3
+317,Juan Manuel Boselli,uy URU,"FW,MF",Nizhny Novgorod,23,22,1122.0,11,2,11,0
+318,Konstantin Maradishvili,ru RUS,MF,Loko Moscow,23,8,163.0,1,0,7,10
+319,Konstantin Maradishvili,ru RUS,"MF,DF",Nizhny Novgorod,23,3,201.0,3,1,0,0
+320,Timofei Margasov,ru RUS,"MF,DF",Sochi,31,20,954.0,10,1,10,9
+321,Nicolas Marichal,uy URU,DF,Dynamo Mosc,22,21,1400.0,16,14,5,5
+322,Jimmy Marín,cr CRC,"FW,MF",Orenburg,25,27,1155.0,10,1,17,2
+323,Guilherme Marinato,ru RUS,GK,Loko Moscow,37,0,,0,0,0,23
+324,Yevgeni Markov,ru RUS,FW,Fakel Voronezh,29,29,1758.0,23,5,6,0
+325,Christopher Martins,lu LUX,MF,Spartak Moscow,26,26,1443.0,15,8,11,1
+326,Cimafiej Martynaŭ,by BLR,FW,Orenburg,18,0,,0,0,0,1
+327,Alyaksandr Martynovich,by BLR,DF,Rubin Kazan,35,20,1667.0,19,14,1,8
+328,Pavel Maslov,ru RUS,DF,Spartak Moscow,23,4,185.0,2,0,2,15
+329,Lucas Masoero,ar ARG,DF,Nizhny Novgorod,28,4,271.0,3,3,1,0
+330,Vladislav Masternoy,ru RUS,"DF,MF",Fakel Voronezh,27,25,1914.0,22,16,3,5
+331,Minkail Matsuev,ru RUS,MF,Akhmat Grozny,23,0,,0,0,0,25
+332,Jesús Medina,py PAR,"MF,FW",Spartak Moscow,26,24,1269.0,16,1,8,3
+333,Jurij Medvedev,,"MF,DF",Sochi,27,12,341.0,3,0,9,6
+334,Nikita Medvedev,ru RUS,GK,Rostov,28,8,662.0,7,7,1,18
+335,Viktor Melekhin,ru RUS,DF,Rostov,19,23,1549.0,17,15,6,3
+336,Pavel Meleshin,ru RUS,FW,Spartak Moscow,19,3,83.0,1,0,2,13
+337,Georgi Melkadze,ru RUS,FW,Sochi,26,8,468.0,5,2,3,4
+338,Andrei Mendel,ru RUS,"MF,DF",Fakel Voronezh,28,15,1172.0,13,11,2,3
+339,Víctor Méndez,cl CHI,MF,CSKA Moscow,23,24,1804.0,22,12,2,6
+340,Artyom Meshchaninov,ru RUS,DF,Sochi,27,2,99.0,1,1,1,16
+341,Iaroslav Mikhailov,ru RUS,MF,Orenburg,20,17,690.0,7,0,10,6
+342,Iaroslav Mikhailov,ru RUS,MF,Nizhny Novgorod,20,6,234.0,2,0,4,1
+343,Ivan Miladinović,rs SRB,DF,Sochi,28,17,1343.0,15,10,2,1
+344,Anton Miranchuk,ru RUS,MF,Loko Moscow,27,29,1755.0,21,7,8,1
+345,Aleksey Mironov,ru RUS,MF,Rostov,23,15,871.0,11,5,4,3
+346,Danijel Miškić,hr CRO,MF,Ural,29,26,1929.0,24,13,2,0
+347,Mario Mitaj,al ALB,"MF,DF",Loko Moscow,19,21,1073.0,12,6,9,6
+348,Timofey Mitrov,ru RUS,GK,Loko Moscow,18,0,,0,0,0,5
+349,Mohammad Mohebbi,ir IRN,FW,Rostov,24,22,1620.0,17,9,5,0
+350,Kirill Moiseev,ru RUS,FW,Rostov,19,0,,0,0,0,2
+351,Moisés,br BRA,DF,CSKA Moscow,28,24,2085.0,24,22,0,0
+352,Evgeni Morozov,ru RUS,DF,Loko Moscow,22,25,2184.0,24,24,1,3
+353,Victor Moses,ng NGA,MF,Spartak Moscow,32,16,636.0,8,1,8,6
+354,Egor Mosin,ru RUS,DF,Ural,19,1,8.0,0,0,1,9
+355,Andrei Mostovoy,ru RUS,"FW,MF",Zenit,25,21,1011.0,11,2,10,1
+356,Nichita Moțpan,md MDA,"MF,FW",Fakel Voronezh,22,28,1225.0,12,4,16,1
+357,Anton Mukhin,ru RUS,MF,Nizhny Novgorod,18,0,,0,0,0,11
+358,Maksim Mukhin,ru RUS,"MF,FW",CSKA Moscow,21,12,853.0,10,3,2,0
+359,Tomás Muro,ar ARG,MF,Orenburg,21,0,,0,0,0,10
+360,Tamerlan Musaev,ru RUS,FW,CSKA Moscow,22,12,657.0,6,4,6,0
+361,Tamerlan Musaev,ru RUS,FW,FC Baltika Kaliningrad,22,18,927.0,7,5,11,0
+362,Kirill Nababkin,ru RUS,DF,CSKA Moscow,36,15,960.0,9,6,6,14
+363,Egor Nazarenko,ru RUS,MF,Dynamo Mosc,17,0,,0,0,0,2
+364,Mikhail Nedospasov,ru RUS,GK,Samara,17,0,,0,0,0,4
+365,Christian Neiva Afonso,pt POR,"DF,MF",Ural,28,13,825.0,10,5,3,14
+366,Maksim Nenakhov,ru RUS,DF,Loko Moscow,24,26,1981.0,24,15,2,3
+367,Moumi Ngamaleu,cm CMR,"MF,FW",Dynamo Mosc,29,26,1815.0,20,3,6,0
+368,Artur Nigmatullin,ru RUS,GK,Nizhny Novgorod,32,29,2610.0,29,29,0,0
+369,Kirill Nikishin,ru RUS,FW,Loko Moscow,19,0,,0,0,0,1
+370,Nino,br BRA,DF,Zenit,26,12,1043.0,12,11,0,0
+371,Christian Noboa,ec ECU,MF,Sochi,38,11,722.0,8,6,3,2
+372,Mathias Normann,no NOR,"DF,MF",Dynamo Mosc,27,1,45.0,0,0,1,0
+373,Egor Noskov,ru RUS,DF,CSKA Moscow,20,0,,0,0,0,5
+374,Gerzino Nyamsi,fr FRA,DF,Loko Moscow,26,8,720.0,8,8,0,1
+375,Ivan Oblyakov,ru RUS,MF,CSKA Moscow,25,27,2310.0,26,16,1,1
+376,Vladimir Obukhov,ru RUS,FW,Orenburg,31,15,691.0,9,0,6,8
+377,Stepan Oganesyan,ru RUS,FW,Orenburg,21,18,481.0,4,0,14,3
+378,Lucas Olaza,uy URU,DF,Krasnodar,29,25,1816.0,21,18,4,0
+379,Ivan Oleinikov,ru RUS,MF,Akhmat Grozny,24,27,1723.0,20,7,7,2
+380,Olakunle Olusegun,ng NGA,"FW,DF",Krasnodar,21,27,1600.0,18,7,9,1
+381,Mikhail Oparin,ru RUS,GK,Akhmat Grozny,30,6,495.0,5,5,1,24
+382,Franco Orozco,ar ARG,MF,Samara,21,12,543.0,5,0,7,0
+383,Maksim Osipenko,ru RUS,DF,Rostov,29,24,2032.0,23,20,1,0
+384,Aleksandr Osipov,ru RUS,MF,FC Baltika Kaliningrad,24,19,1281.0,13,11,6,11
+385,Ivan Ostojić,rs SRB,DF,FC Baltika Kaliningrad,34,14,871.0,9,9,5,11
+386,Bogdan Ovsyannikov,ru RUS,GK,Samara,24,9,810.0,9,9,0,11
+387,Kaio Pantaleão,br BRA,DF,Krasnodar,27,12,850.0,10,8,2,5
+388,Sergei Parshivlyuk,ru RUS,DF,Dynamo Mosc,34,15,836.0,11,4,4,8
+389,Matías Pérez,ar ARG,"DF,MF",Orenburg,24,27,2360.0,27,23,0,0
+390,Sergei Pesyakov,ru RUS,GK,Rostov,34,23,2038.0,23,22,0,6
+391,Sergei Petrov,ru RUS,DF,Krasnodar,32,14,811.0,9,5,5,3
+392,Kevin Pina,cv CPV,MF,Krasnodar,25,15,384.0,3,1,12,14
+393,Sergey Pinyaev,ru RUS,"MF,FW",Loko Moscow,18,29,1705.0,23,2,6,0
+394,Vladimir Pisarskiy,ru RUS,FW,Samara,27,18,277.0,1,0,17,5
+395,Egor Pogostnov,ru RUS,DF,Loko Moscow,19,4,336.0,4,3,0,9
+396,Nikolai Poiarkov,ru RUS,DF,Fakel Voronezh,23,0,,0,0,0,8
+397,Nikolai Poiarkov,ru RUS,DF,Rostov,23,2,127.0,2,0,0,5
+398,Vladimir Poluyakhtov,ru RUS,DF,Orenburg,34,4,145.0,2,0,2,26
+399,Ilya Pomazun,ru RUS,GK,Ural,26,29,2610.0,29,29,0,1
+400,Kirill Popov,ru RUS,MF,Samara,17,0,,0,0,0,4
+401,Pavel Popov,ru RUS,FW,Samara,20,4,12.0,0,0,4,1
+402,Danila Prokhin,ru RUS,DF,Orenburg,22,9,188.0,1,1,8,2
+403,Danila Prokhin,ru RUS,DF,Rostov,22,10,401.0,3,2,7,8
+404,Quincy Promes,nl NED,"FW,MF",Spartak Moscow,31,17,1452.0,17,13,0,0
+405,Danil Prutsev,ru RUS,MF,Spartak Moscow,23,23,1632.0,18,8,5,7
+406,Sergey Pryakhin,ru RUS,"MF,FW",FC Baltika Kaliningrad,20,18,715.0,7,0,11,10
+407,Aleksandr Putsko,ru RUS,DF,FC Baltika Kaliningrad,30,6,540.0,6,6,0,12
+408,Stanislav Puzanov,ru RUS,DF,Krasnodar,19,0,,0,0,0,2
+409,Kiryl Pyachenin,by BLR,DF,Samara,26,12,241.0,1,1,11,0
+410,Kiryl Pyachenin,by BLR,DF,Orenburg,26,6,515.0,5,4,1,3
+411,Du Queiroz,br BRA,MF,Zenit,23,10,219.0,2,1,8,8
+412,Nikola Radmanovac,rs SRB,DF,FC Baltika Kaliningrad,26,23,1595.0,18,16,5,6
+413,Amar Rahmanović,ba BIH,"FW,MF",Samara,29,26,1691.0,20,3,6,2
+414,Vadim Rakov,ru RUS,FW,Loko Moscow,18,1,1.0,0,0,1,9
+415,Lazar Ranđelović,rs SRB,"MF,FW",Rubin Kazan,25,21,1258.0,15,3,6,2
+416,Nikolai Rasskazov,ru RUS,"DF,MF",Samara,25,26,1914.0,21,14,5,1
+417,Kurban Rasulov,ru RUS,GK,Dynamo Mosc,17,0,,0,0,0,7
+418,Umarali Raxmonaliyev,uz UZB,"MF,FW",Rubin Kazan,19,11,618.0,7,1,4,12
+419,Oleg Reabciuk,md MDA,DF,Spartak Moscow,25,14,989.0,11,7,3,12
+420,Robert Renan,br BRA,DF,Zenit,19,4,315.0,4,3,0,13
+421,Artur Rimovič Jusupov,ru RUS,"MF,FW",Sochi,33,23,1410.0,18,4,5,2
+422,Amirhossein Rivandi,ir IRN,DF,CSKA Moscow,19,1,6.0,0,0,1,9
+423,Rodrigão,br BRA,DF,Zenit,27,16,893.0,9,8,7,6
+424,Anton Roshchin,ru RUS,DF,Spartak Moscow,18,1,14.0,0,0,1,2
+425,Ilia Rozhkov,ru RUS,"MF,DF",Rubin Kazan,18,18,1346.0,15,10,3,8
+426,Maksim Rudakov,ru RUS,GK,Sochi,27,4,360.0,4,4,0,8
+427,Mikhail Ryadno,ru RUS,DF,CSKA Moscow,17,5,279.0,1,1,4,22
+428,Dmitrii Rybchinskii,ru RUS,MF,Loko Moscow,24,8,337.0,2,0,6,9
+429,Dmitrii Rybchinskii,ru RUS,"MF,FW",FC Baltika Kaliningrad,24,11,410.0,3,0,8,1
+430,Maciej Rybus,pl POL,FW,Rubin Kazan,33,7,290.0,3,0,4,1
+431,Victor Sá,br BRA,"MF,FW",Krasnodar,29,12,804.0,9,2,3,0
+432,Ignacio Saavedra,cl CHI,MF,Sochi,24,12,964.0,12,5,0,0
+433,Lechi Sadulaev,ru RUS,FW,Akhmat Grozny,23,14,764.0,9,2,5,0
+434,Matvei Safonov,ru RUS,GK,Krasnodar,24,30,2655.0,30,29,0,0
+435,Roman Safronov,ru RUS,GK,Krasnodar,20,0,,0,0,0,4
+436,Oumar Sako,ne NIG,DF,Rostov,27,11,990.0,11,11,0,0
+437,Nikita Saltykov,ru RUS,MF,Samara,18,29,2319.0,28,7,1,1
+438,Ilya Samoshnikov,ru RUS,"MF,DF",Loko Moscow,25,28,1503.0,16,9,12,1
+439,Douglas Santos,br BRA,"DF,MF",Zenit,29,26,2219.0,26,23,0,1
+440,Pedrinho Santos,br BRA,"MF,FW",Zenit,17,11,421.0,4,0,7,1
+441,Vladislav Sarveli,ru RUS,FW,Loko Moscow,25,15,412.0,1,1,14,13
+442,Miloš Šatara,ba BIH,DF,Akhmat Grozny,27,7,630.0,7,7,0,5
+443,Saba Sazonov,ge GEO,DF,Dynamo Mosc,21,4,89.0,0,0,4,1
+444,Denis Scherbitskiy,by BLR,GK,Ural,27,0,,0,0,0,17
+445,Guilherme Schettine,br BRA,FW,Ural,27,24,1113.0,11,0,13,4
+446,Aleksandr Selikhov,ru RUS,GK,Spartak Moscow,29,5,405.0,5,4,0,15
+447,David Semenchuk,ru RUS,DF,Rostov,18,3,40.0,0,0,3,7
+448,Andrei Semyonov,ru RUS,DF,Akhmat Grozny,34,18,1619.0,18,17,0,2
+449,Rayan Senhadji,fr FRA,DF,Fakel Voronezh,26,12,1078.0,12,10,0,0
+450,Ivan Sergeyev,ru RUS,FW,Zenit,28,26,1132.0,12,2,14,4
+451,Edgar Sevikyan,am ARM,FW,Nizhny Novgorod,21,18,1157.0,15,2,3,0
+452,Dardan Shabanhaxhaj,at AUT,"FW,MF",Rubin Kazan,22,10,427.0,5,0,5,2
+453,Ruslan Shagiakhmetov,ru RUS,DF,Dynamo Mosc,19,0,,0,0,0,3
+454,Vladimir Shaikhutdinov,ru RUS,GK,CSKA Moscow,19,0,,0,0,0,16
+455,Anton Shamonin,ru RUS,FW,Rostov,18,0,,0,0,0,1
+456,Yegor Shamov,ru RUS,GK,Rubin Kazan,29,1,90.0,1,1,0,22
+457,Daniil Shantalii,ru RUS,MF,Rostov,19,0,,0,0,0,14
+458,Kirill Shchetinin,ru RUS,MF,Rostov,21,25,1690.0,19,10,6,4
+459,Mikhail Shchetinin,ru RUS,MF,Loko Moscow,18,0,,0,0,0,14
+460,Giorgi Shelia,ru RUS,GK,Akhmat Grozny,34,25,2205.0,25,24,0,1
+461,Timofey Shipunov,ru RUS,MF,Sochi,20,2,59.0,1,0,1,1
+462,Maksim Shiryaev,ru RUS,DF,Rubin Kazan,28,0,,0,0,0,2
+463,Vladislav Shitov,ru RUS,"FW,MF",Samara,20,24,1385.0,15,1,9,0
+464,Maksim Shnaptsev,ru RUS,DF,Nizhny Novgorod,19,12,412.0,2,0,10,14
+465,Mikhail Shtepa,ru RUS,GK,Krasnodar,20,0,,0,0,0,21
+466,Anton Shunin,ru RUS,GK,Dynamo Mosc,36,15,1350.0,15,15,0,12
+467,Anton Shvets,ru RUS,"MF,DF",Akhmat Grozny,30,18,788.0,9,5,9,3
+468,Maksim Sidorov,ru RUS,DF,Orenburg,25,17,1251.0,14,10,3,12
+469,Miguel Silveira,br BRA,"FW,MF",Sochi,20,24,738.0,6,0,18,3
+470,Aleksandr Silyanov,ru RUS,DF,Loko Moscow,22,23,1739.0,19,16,4,7
+471,Mikhail Sivakow,by BLR,DF,Orenburg,35,10,740.0,8,8,2,18
+472,Dmitri Skopintsev,ru RUS,DF,Dynamo Mosc,26,29,2255.0,24,22,5,1
+473,Fyodor Smolov,ru RUS,MF,Dynamo Mosc,33,25,1122.0,13,1,12,2
+474,Aleksandr Sobolev,ru RUS,FW,Spartak Moscow,26,27,1790.0,19,12,8,1
+475,Artem Sokolov,ru RUS,MF,Samara,20,3,15.0,0,0,3,17
+476,Aleksandr Soldatenkov,ru RUS,DF,Samara,26,26,2339.0,26,25,0,0
+477,Yaroslav Solovyov,ru RUS,GK,Rostov,17,0,,0,0,0,6
+478,Yegor Sorokin,ru RUS,DF,Rubin Kazan,27,0,,0,0,0,2
+479,Guillermo Soto,cl CHI,DF,FC Baltika Kaliningrad,29,9,591.0,9,1,0,1
+480,Eduard Spertsyan,am ARM,"MF,FW",Krasnodar,23,29,2520.0,28,21,1,0
+481,Mateo Stamatov,bg BUL,DF,Nizhny Novgorod,24,22,1317.0,15,4,7,3
+482,Kirill Stolbov,ru RUS,MF,Rostov,19,0,,0,0,0,10
+483,Semen Stolbov,ru RUS,MF,Orenburg,20,0,,0,0,0,2
+484,Daniil Stoliarov,ru RUS,MF,Spartak Moscow,20,0,,0,0,0,1
+485,Dmitry Stotsky,ru RUS,DF,Nizhny Novgorod,33,22,1086.0,14,5,8,6
+486,Danila Sukhomlinov,ru RUS,MF,Rostov,20,0,,0,0,0,6
+487,Timur Suleimanov,ru RUS,FW,Loko Moscow,23,22,814.0,7,1,15,1
+488,Timur Suleimanov,ru RUS,"FW,MF",Nizhny Novgorod,23,7,402.0,5,0,2,0
+489,Magomed-Shapi Suleymanov,ru RUS,"FW,MF",Krasnodar,23,1,1.0,0,0,1,4
+490,Fanil Sungatulin,ru RUS,MF,Ural,21,8,436.0,4,0,4,14
+491,Kirill Suslov,ru RUS,DF,Fakel Voronezh,31,11,403.0,2,2,9,16
+492,Aleksei Sutormin,ru RUS,"FW,MF",Sochi,29,10,477.0,7,0,3,2
+493,Aleksei Sutormin,ru RUS,"DF,FW",Zenit,29,7,149.0,0,0,7,11
+494,Ilja Svinov,ru RUS,GK,Spartak Moscow,22,2,180.0,2,2,0,24
+495,Maksim Syshchenko,ru RUS,DF,Orenburg,19,0,,0,0,0,1
+496,Nikolai Sysuyev,ru RUS,GK,Orenburg,24,26,2340.0,26,26,0,1
+497,Kasra Taheri,ir IRN,FW,Rubin Kazan,16,2,27.0,0,0,2,6
+498,Rizvan Tashaev,ru RUS,GK,Akhmat Grozny,19,0,,0,0,0,18
+499,Tomás Tavares,pt POR,DF,Spartak Moscow,22,3,41.0,0,0,3,7
+500,Vladislav Teplyakov,ru RUS,DF,Samara,19,0,,0,0,0,1
+501,Denis Terentyev,ru RUS,DF,Rostov,30,14,787.0,8,6,6,14
+502,Egor Teslenko,gr GRE,DF,Rubin Kazan,22,10,565.0,6,4,4,13
+503,Jordhy Thompson,cl CHI,"FW,MF",Orenburg,18,10,716.0,10,1,0,0
+504,Dmitri Tikhiy,ru RUS,DF,Nizhny Novgorod,30,18,1404.0,15,15,3,2
+505,Ilia Tikhomirov,ru RUS,GK,Spartak Moscow,18,0,,0,0,0,1
+506,Mikhail Tikhonov,ru RUS,DF,Nizhny Novgorod,25,0,,0,0,0,2
+507,Nair Tiknizyan,am ARM,"MF,DF",Loko Moscow,24,22,1452.0,15,7,7,2
+508,Artyom Timofeyev,ru RUS,MF,Akhmat Grozny,29,26,2060.0,24,15,2,2
+509,Nikolai Titkov,ru RUS,MF,Orenburg,22,1,31.0,0,0,1,19
+510,Darko Todorović,ba BIH,"DF,MF",Akhmat Grozny,26,28,2290.0,27,19,1,0
+511,Nikolay Tolstopyatov,ru RUS,DF,Nizhny Novgorod,21,3,113.0,1,1,2,14
+512,Vítor Tormena,br BRA,DF,Krasnodar,27,23,1962.0,22,20,1,1
+513,Vladislav Torop,ru RUS,GK,CSKA Moscow,19,5,450.0,5,5,0,23
+514,David Toshevski,mk MKD,FW,Rostov,22,1,19.0,0,0,1,0
+515,Aleksandr Troshechkin,ru RUS,"MF,FW",Nizhny Novgorod,27,28,2112.0,28,5,0,1
+516,Valeri Tsarukyan,ru RUS,MF,Nizhny Novgorod,21,4,51.0,0,0,4,8
+517,Mikhail Tsulaya,ru RUS,GK,Rostov,18,0,,0,0,0,13
+518,Dmitri Tsypchenko,ru RUS,FW,Samara,24,1,23.0,1,0,0,0
+519,Roman Tugarev,ru RUS,FW,Rostov,25,7,296.0,4,1,3,10
+520,Zé Turbo,gw GNB,FW,Nizhny Novgorod,26,23,816.0,7,1,16,5
+521,Konstantin Tyukavin,ru RUS,FW,Dynamo Mosc,21,30,2326.0,29,8,1,0
+522,Manfred Ugalde,cr CRC,"FW,MF",Spartak Moscow,21,12,789.0,9,3,3,0
+523,Nail Umyarov,ru RUS,MF,Spartak Moscow,23,23,983.0,11,3,12,5
+524,Merabi Uridia,ge GEO,FW,Rubin Kazan,30,4,62.0,0,0,4,6
+525,Egor Ushakov,ru RUS,FW,Samara,20,1,2.0,0,0,1,0
+526,Daniil Utkin,ru RUS,MF,Rostov,23,24,1750.0,20,11,4,2
+527,Rizvan Utsiyev,ru RUS,DF,Akhmat Grozny,35,9,403.0,3,2,6,19
+528,Valentín Vada,ar ARG,"FW,MF",Rubin Kazan,27,21,1535.0,18,6,3,1
+529,Ilya Vakhaniya,ru RUS,DF,Rostov,22,28,2153.0,26,15,2,1
+530,Eduard Valiakhmetov,ru RUS,MF,FC Baltika Kaliningrad,26,0,,0,0,0,4
+531,Artem Varganov,ru RUS,DF,Nizhny Novgorod,18,0,,0,0,0,1
+532,Dmitrii Vasilev,ru RUS,MF,Zenit,19,9,189.0,1,1,8,10
+533,Aleksandr Vasyutin,ru RUS,GK,Zenit,28,1,90.0,1,1,0,27
+534,Danila Vedernikov,ru RUS,DF,Nizhny Novgorod,22,1,7.0,0,0,1,4
+535,Lucas Vera,ar ARG,MF,Orenburg,26,28,1938.0,22,13,6,1
+536,Maksim Vityugov,ru RUS,MF,Samara,25,22,1446.0,16,3,6,0
+537,Rai Vloet,nl NED,"FW,MF",Ural,28,5,55.0,0,0,5,5
+538,Sergey Volkov,ru RUS,DF,Krasnodar,20,22,1720.0,20,10,2,6
+539,Vladislav Volkov,ru RUS,DF,Akhmat Grozny,23,3,50.0,0,0,3,12
+540,Dmitry Vorobyev,ru RUS,"FW,MF",Orenburg,25,24,1886.0,22,9,2,1
+541,Igor Vujačić,me MNE,DF,Rubin Kazan,28,28,2520.0,28,28,0,1
+542,Aleksandr Vyacheslavovich Zhirov,ru RUS,DF,FC Baltika Kaliningrad,32,19,1681.0,19,17,0,8
+543,Wendel,br BRA,MF,Zenit,25,27,2295.0,26,14,1,0
+544,Willyan,br BRA,DF,CSKA Moscow,28,24,1981.0,24,20,0,0
+545,Vyacheslav Yakimov,ru RUS,MF,Fakel Voronezh,25,24,1699.0,20,10,4,2
+546,Denis Yakuba,ru RUS,"DF,MF",Samara,27,8,159.0,0,0,8,2
+547,Magomed Yakuev,ru RUS,MF,Akhmat Grozny,19,1,1.0,0,0,1,4
+548,Nikita Yanovich,ru RUS,GK,Rubin Kazan,20,0,,0,0,0,29
+549,Vladimir Yarlykov,ru RUS,DF,Krasnodar,21,0,,0,0,0,1
+550,Andrei Yegorychev,ru RUS,"MF,FW",Ural,30,25,2122.0,24,18,1,0
+551,Roman Yevgenyev,ru RUS,DF,Samara,24,23,1989.0,22,22,1,7
+552,Roman Yezhov,ru RUS,MF,Samara,25,17,1290.0,15,9,2,1
+553,Ibrohimxalil Yoʻldoshev,uz UZB,DF,Nizhny Novgorod,22,4,146.0,1,0,3,4
+554,Igor Yurganov,ru RUS,DF,Sochi,29,5,346.0,4,2,1,11
+555,Igor Yurganov,ru RUS,"DF,MF",Fakel Voronezh,29,10,773.0,9,7,1,2
+556,Aleksandr Yushin,ru RUS,MF,Ural,28,13,629.0,10,0,3,4
+557,Anton Zabolotny,ru RUS,FW,CSKA Moscow,32,29,1578.0,17,10,12,0
+558,Nikolai Zabolotny,ru RUS,GK,Sochi,33,19,1710.0,19,19,0,8
+559,Artur Zagorodnikov,ru RUS,DF,Samara,19,0,,0,0,0,1
+560,Leon Zaidenzal,ru RUS,DF,Dynamo Mosc,19,0,,0,0,0,3
+561,Kirill Zaika,ru RUS,"MF,DF",Sochi,30,27,1610.0,18,5,9,2
+562,Baktiyor Zainutdinov,kz KAZ,MF,CSKA Moscow,25,3,214.0,3,2,0,0
+563,Arsen Zakharyan,ru RUS,MF,Dynamo Mosc,20,3,197.0,3,1,0,0
+564,Ivan Zazvonkin,ru RUS,MF,Dynamo Mosc,19,0,,0,0,0,7
+565,Saša Zdjelar,rs SRB,"MF,DF",CSKA Moscow,28,28,2475.0,27,27,1,0
+566,Yuri Zheleznov,ru RUS,MF,Ural,20,2,67.0,1,0,1,4
+567,Rifat Zhemaletdinov,ru RUS,MF,Loko Moscow,26,20,526.0,4,0,16,5
+568,Nikita Zheymo,ru RUS,GK,FC Baltika Kaliningrad,22,0,,0,0,0,1
+569,Ilya Zhigulyov,ru RUS,MF,Nizhny Novgorod,27,13,246.0,0,0,13,5
+570,Dmitri Zhivoglyadov,ru RUS,DF,Nizhny Novgorod,29,15,957.0,11,6,4,5
+571,Anton Zinkovskiy,ru RUS,"MF,FW",Spartak Moscow,27,25,1363.0,14,5,11,5
+572,Roman Zobnin,ru RUS,"MF,DF",Spartak Moscow,29,22,1473.0,18,8,4,3
+573,Daniil Zorin,ru RUS,FW,Spartak Moscow,19,0,,0,0,0,3
+574,Aleksandr Zotov,ru RUS,MF,Rubin Kazan,32,26,1785.0,19,11,7,1
+575,Georgi Zotov,ru RUS,"MF,DF",Samara,33,16,260.0,2,0,14,9
+576,Ilya Zubenko,ru RUS,MF,Rostov,17,1,1.0,0,0,1,5
+577,Luka Đorđević,me MNE,FW,Sochi,29,11,587.0,8,1,3,1
