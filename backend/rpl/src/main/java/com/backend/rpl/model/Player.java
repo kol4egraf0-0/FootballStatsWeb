@@ -22,24 +22,24 @@ public class Player {
 
     private String squad;
 
-    private int age;
+    private Integer age;
 
-    private int mp;
+    private Integer mp;
 
-    private double min;
+    private Double min;
 
-    private int starts;
+    private Integer starts;
 
-    private int compl;
+    private Integer compl;
 
-    private int subs;
+    private Integer subs;
 
-    private int unSub;
+    private Integer unSub;
 
     public Player() {
     }
 
-    public Player(String name, String nation, String pos, String squad, int age, int mp, double min, int starts, int compl, int subs, int unSub) {
+    public Player(String name, String nation, String pos, String squad, Integer age, Integer mp, Double min, Integer starts, Integer compl, Integer subs, Integer unSub) {
         this.name = name;
         this.nation = nation;
         this.pos = pos;
