@@ -1,6 +1,6 @@
 import React from "react";
 
-function Positions() {
+function Home() {
   return (
     <div className="page">
       <h1>РПЛ 23/24</h1>
@@ -9,4 +9,4 @@ function Positions() {
   );
 }
 
-export default Positions;
+export default Home;
