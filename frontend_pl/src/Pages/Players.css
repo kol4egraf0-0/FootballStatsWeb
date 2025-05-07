@@ -1,36 +1,68 @@
 .page {
-    padding: 100px;
+  padding: 100px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f5f7fa;
+  color: #333;
+}
+
+.search-input {
+  margin: 20px 0;
+  padding: 12px 16px;
+  font-size: 16px;
+  width: 320px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: box-shadow 0.3s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(46, 139, 87, 0.4);
+  border-color: seagreen;
+}
+
+.players-table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  border-radius: 10px;
+  animation: fadeIn 0.6s ease;
+}
+
+.players-table th,
+.players-table td {
+  border: 1px solid #e0e0e0;
+  padding: 14px 16px;
+  text-align: left;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.players-table th {
+  background-color: seagreen;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.players-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.players-table tr:hover {
+  background-color: #dff0e6;
+  transform: scale(1.01);
+  transition: transform 0.2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
   }
-  
-  .search-input {
-    margin: 20px 0;
-    padding: 10px;
-    font-size: 16px;
-    width: 300px;
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
-  
-  .players-table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  
-  .players-table th,
-  .players-table td {
-    border: 1px solid #ddd;
-    padding: 12px;
-    text-align: left;
-  }
-  
-  .players-table th {
-    background-color: seagreen;
-    color: white;
-  }
-  
-  .players-table tr:nth-child(even) {
-    background-color: #f9f9f9;
-  }
-  
-  .players-table tr:hover {
-    background-color: #f1f1f1;
-  }
-  
+}
