@@ -1,5 +1,5 @@
 import './Navbar.css';
-import { Link, Outlet } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
@@ -7,10 +7,9 @@ const Navbar = () => {
     <header className="header">
           <Link to="/" className="logo">РПЛ Статистика 23/24</Link>
       <nav className="navbar">
-          <Link to="/">Главная</Link>
-          <Link to="/players">Игроки</Link> 
-          <Link to="/teams">Команды</Link>
-          <Link to="/positions">Позиции</Link>
+          <Link to="/players" className="nav-link">Игроки</Link> 
+          <Link to="/teams" className="nav-link">Команды</Link>
+          <Link to="/positions"className="nav-link">Позиции</Link>
         </nav>
     </header>
     </>

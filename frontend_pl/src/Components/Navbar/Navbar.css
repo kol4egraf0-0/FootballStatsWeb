@@ -1,4 +1,5 @@
 
+
 header{
     position: fixed;
     top:0;
@@ -19,7 +20,7 @@ header{
     text-decoration: none; 
 }
 
-.navbar a {
+.navbar .nav-link {
     position: relative;
     font-size: 26px;
     color: #fff;
@@ -28,7 +29,7 @@ header{
     text-decoration: none;
 }
 
-.navbar a::before {
+.navbar .nav-link::before {
     content: '';
     position: absolute;
     top: 100%;
@@ -39,6 +40,7 @@ header{
     transition: width 0.3s ease;
 }
 
-.navbar a:hover::before {
+.navbar .nav-link:hover::before {
     width: 100%;
 }
+
