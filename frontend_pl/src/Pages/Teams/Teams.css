@@ -1,0 +1,48 @@
+.teams-page {
+    padding: 80px;
+    font-family: "Segoe UI", sans-serif;
+    max-width: 1200px; 
+    margin: 0 auto;    
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin-left: 110px;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+    color: #1e3a8a;
+  }
+  
+  .team-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .team-card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 220px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    transition: 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .team-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  .team-card h2 {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .team-card p {
+    color: #666;
+    font-size: 0.95rem;
+  }
+  

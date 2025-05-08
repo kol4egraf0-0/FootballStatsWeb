@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import "./Teams.css";
+import "./Teams.css"; 
 
 function Teams() {
   const [teams, setTeams] = useState([]);
@@ -34,12 +34,11 @@ function Teams() {
 
   return (
     <div className="teams-page">
-      <h1>Команды РПЛ 23/24</h1>
       <div className="team-grid">
         {teams.map((team) => (
           <div key={team.name} className="team-card">
             <h2>{team.name}</h2>
-            <p>Игроков: {team.playerCount}</p>
+            <p>Игроков, заявленных хоть раз на матч: {team.playerCount}</p>
           </div>
         ))}
       </div>
