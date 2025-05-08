@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
           <header className="header">
         <div className="header-content">
-          <Link to="/" className="logo">РПЛ Статистика 23/24</Link>
+          <Link to="/home" className="logo">РПЛ Статистика 23/24</Link>
           <nav className="navbar">
             <Link to="/home" className="nav-link">Главная</Link> 
             <Link to="/players" className="nav-link">Игроки</Link> 
