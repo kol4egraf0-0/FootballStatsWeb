@@ -56,6 +56,32 @@
   transition: transform 0.2s ease-in-out;
 }
 
+.back-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px 10px 15px;
+  background-color: #2e8b57;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 10px rgba(46, 139, 87, 0.2);
+}
+
+.back-button:hover {
+  background-color: #3cb371;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(46, 139, 87, 0.3);
+}
+
+.back-button:active {
+  transform: translateY(0);
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;

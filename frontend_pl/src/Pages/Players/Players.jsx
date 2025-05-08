@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
+import { useNavigate } from "react-router-dom";
 import "./Players.css"; 
 
 function Players() {
   const [players, setPlayers] = useState([]);
   const [search, setSearch] = useState("");
+  const navigate = useNavigate();
 
   const fetchPlayers = async (query) => {
     try {
@@ -27,8 +29,17 @@ function Players() {
     fetchPlayers(value);
   };
 
+  const handleBackClick = () => {
+    navigate(-1); 
+  };
+
   return (
     <div className="page">
+      <div className="team-players-header">
+        <button onClick={handleBackClick} className="back-button">
+          ← Назад
+        </button>
+      </div>
       <input
         type="text"
         placeholder="Поиск по имени"
