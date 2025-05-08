@@ -53,6 +53,12 @@ public class PlayerService {
                 .collect(Collectors.toList());
     }
 
+    public List<Player> getPlayerByTeamAndName(String team, String name) {
+        return playerRepository.findAll().stream()
+                .filter(player -> team.equalsIgnoreCase(player.getSquad()) && name.equalsIgnoreCase(player.getName()))
+                .collect(Collectors.toList());
+    }
+
     public Player addPlayer(Player player) {
         return playerRepository.save(player);
     }
