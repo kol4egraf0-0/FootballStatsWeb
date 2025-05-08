@@ -1,0 +1,77 @@
+.home-container {
+    font-family: "Segoe UI", sans-serif;
+    padding: 20px;
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  
+  .hero-section {
+    background: linear-gradient(135deg, #2e8b57, #3cb371); 
+    color: #fff;
+    padding: 40px 30px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hero-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    font-weight: 700;
+  }
+  
+  .hero-section p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+  }
+  
+  .cards-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .info-card {
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    width: 280px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+    border-top: 3px solid #2e8b57;
+  }
+  
+  .info-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-card h2 {
+    margin-bottom: 15px;
+    font-size: 1.3rem;
+    color: #2e8b57;
+    font-weight: 600;
+  }
+  
+  .footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #6c757d;
+    padding-top: 20px;
+    border-top: 1px solid #dee2e6;
+  }
+  
+  /* Дополнительные стили для футбольной тематики */
+  .stats-badge {
+    background-color: #2e8b57;
+    color: white;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    display: inline-block;
+    margin-left: 10px;
+  }
