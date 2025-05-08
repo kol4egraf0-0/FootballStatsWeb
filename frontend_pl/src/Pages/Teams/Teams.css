@@ -1,48 +1,90 @@
 .teams-page {
-    padding: 80px;
-    font-family: "Segoe UI", sans-serif;
-    max-width: 1200px; 
-    margin: 0 auto;    
-    display: flex;
-    flex-direction: column;
-    align-items: center; 
-    margin-left: 110px;
-  }
-  
-  h1 {
-    margin-bottom: 30px;
-    color: #1e3a8a;
-  }
-  
+  padding: 2rem;
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+  max-width: 1400px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+  padding: 0 1rem;
+}
+
+.team-card {
+  position: relative;
+  height: 180px;
+  border-radius: 12px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.team-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+.team-content {
+  padding: 1.5rem;
+  color: white;
+  z-index: 2;
+}
+
+.team-content h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.team-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.player-count {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+
+@keyframes pulse {
+  0% { opacity: 0.6; }
+  50% { opacity: 0.3; }
+  100% { opacity: 0.6; }
+}
+
+@media (max-width: 768px) {
   .team-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   }
   
   .team-card {
-    background: white;
-    border-radius: 10px;
-    padding: 20px;
-    width: 220px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-    transition: 0.3s ease;
-    cursor: pointer;
+    height: 160px;
   }
   
-  .team-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  .teams-page h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .team-grid {
+    grid-template-columns: 1fr;
   }
   
-  .team-card h2 {
-    font-size: 1.3rem;
-    margin-bottom: 10px;
-    color: #333;
+  .team-card {
+    height: 140px;
   }
-  
-  .team-card p {
-    color: #666;
-    font-size: 0.95rem;
-  }
-  
+}
