@@ -2,11 +2,11 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import App from './App';
-import Players from './Pages/Players';
-import NotFoundPage from './Pages/NotFoundPage';
-import Home from './Pages/Home'
-import Teams from './Pages/Teams'
-import Positions from './Pages/Positions'
+import Players from './Pages/Players/Players';
+import NotFoundPage from './Pages/NotFound/NotFoundPage';
+import Home from './Pages/Home/Home'
+import Teams from './Pages/Teams/Teams'
+import Positions from './Pages/Positions/Positions'
 
 const router = createBrowserRouter([
   {
