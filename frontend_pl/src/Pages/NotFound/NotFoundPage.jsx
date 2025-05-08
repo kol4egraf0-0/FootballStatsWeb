@@ -1,5 +1,6 @@
 import React from "react";
 import "./NotFoundPage.css";
+import { Link } from "react-router-dom";
 
 function NotFoundPage() {
   return (
@@ -11,9 +12,9 @@ function NotFoundPage() {
           Похоже, мы не можем найти нужную страницу. 
           Возможно, она удалена или перемещена.
         </p>
-        <a href="/" className="not-found-button">
+        <Link to="/home" className="not-found-button">
           Вернуться на главную
-        </a>
+        </Link>
       </div>
     </div>
   );
