@@ -55,7 +55,7 @@ public class PlayerService {
 
     public List<Player> getPlayerByTeamAndName(String team, String name) {
         return playerRepository.findAll().stream()
-                .filter(player -> team.equalsIgnoreCase(player.getSquad()) && name.equalsIgnoreCase(player.getName()))
+                .filter(player -> team.equalsIgnoreCase(player.getSquad()) && player.getName().toLowerCase().contains(name.toLowerCase()))
                 .collect(Collectors.toList());
     }
 

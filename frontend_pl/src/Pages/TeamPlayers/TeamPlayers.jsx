@@ -11,14 +11,15 @@ function TeamPlayers() {
   const { team } = useParams();
   const navigate = useNavigate();
 
-  const fetchPlayers = async (query) => {
+  const fetchPlayers = async (query, isSearch = false) => {
     try {
-      const response = await axios.get(`http://localhost:8080/api/player`, {
-        params: { 
-          name: query,
-          team: team
-        },
-      });
+      const params = { team };
+      if (isSearch && query) {
+        params.name = query;
+      }
+      
+      const response = await axios.get(`http://localhost:8080/api/player`, { params });
+      
       setPlayers(response.data);
       if (response.data.length > 0) {
         setTeamName(response.data[0].squad);
@@ -29,13 +30,13 @@ function TeamPlayers() {
   };
 
   useEffect(() => {
-    fetchPlayers("");
+    fetchPlayers("", false); 
   }, [team]);
 
   const handleSearch = (e) => {
     const value = e.target.value;
     setSearch(value);
-    fetchPlayers(value);
+    fetchPlayers(value, true); 
   };
 
   const handleBackClick = () => {
