@@ -2,9 +2,11 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "./Teams.css";
 import teamLogos from "./TeamsLogos";
+import { useNavigate } from "react-router-dom";
 
 function Teams() {
   const [teams, setTeams] = useState([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const fetchPlayers = async () => {
@@ -22,7 +24,7 @@ function Teams() {
         const teamList = Object.entries(grouped).map(([squad, members]) => ({
           name: squad,
           playerCount: members.length,
-          logo: teamLogos[squad] || "https://via.placeholder.com/300"
+          logo: teamLogos[squad]
         }));
 
         teamList.sort((a, b) => a.name.localeCompare(b.name));
@@ -36,6 +38,9 @@ function Teams() {
     fetchPlayers();
   }, []);
 
+  const handleTeamClick = (teamName) => {
+    navigate(`/team/${encodeURIComponent(teamName)}`);
+  };
 
   return (
     <div className="teams-page">
@@ -45,8 +50,9 @@ function Teams() {
             key={team.name}
             className="team-card"
             style={{
-              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)), url(${team.logo})`,
+              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)), url(${team.logo})`,
             }}
+            onClick={() => handleTeamClick(team.name)}
           >
             <div className="team-content">
               <h2>{team.name}</h2>

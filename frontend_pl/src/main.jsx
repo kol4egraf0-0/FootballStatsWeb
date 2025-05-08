@@ -7,6 +7,7 @@ import NotFoundPage from './Pages/NotFound/NotFoundPage';
 import Home from './Pages/Home/Home'
 import Teams from './Pages/Teams/Teams'
 import Positions from './Pages/Positions/Positions'
+import TeamPlayers from './Pages/TeamPlayers/TeamPlayers';
 
 const router = createBrowserRouter([
   {
@@ -17,7 +18,8 @@ const router = createBrowserRouter([
       { path: "/teams", element: <Teams /> },
       { path: "/positions", element: <Positions /> },
       { path: "/players", element: <Players /> },
-      { path: "*", element: <NotFoundPage /> }
+      { path: "*", element: <NotFoundPage /> },
+      {path: "/team/:team", element: <TeamPlayers />}
     ]
   }
 ]);
