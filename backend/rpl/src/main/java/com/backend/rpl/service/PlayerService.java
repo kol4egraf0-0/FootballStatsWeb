@@ -59,6 +59,12 @@ public class PlayerService {
                 .collect(Collectors.toList());
     }
 
+    public List<Player> getPlayerByNationAndName(String nation, String name) {
+        return playerRepository.findAll().stream()
+                .filter(player -> nation.equalsIgnoreCase(player.getNation()) && player.getName().toLowerCase().contains(name.toLowerCase()))
+                .collect(Collectors.toList());
+    }
+
     public Player addPlayer(Player player) {
         return playerRepository.save(player);
     }

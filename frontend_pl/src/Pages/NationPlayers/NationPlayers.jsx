@@ -7,7 +7,7 @@ import "./NationPlayers.css"
 function NationPlayers() {
   const [players, setPlayers] = useState([]);
   const [search, setSearch] = useState("");
-  const [setNationName] = useState("");
+  const [nationName, setNationName] = useState("");
   const { nation } = useParams();
   const navigate = useNavigate();
 
@@ -22,7 +22,7 @@ function NationPlayers() {
       
       setPlayers(response.data);
       if (response.data.length > 0) {
-        setNationName(response.data[0].squad);
+        setNationName(response.data[0].nation);
       }
     } catch (error) {
       console.error("Ошибка при загрузке игроков:", error);
@@ -49,7 +49,7 @@ function NationPlayers() {
         <button onClick={handleBackClick} className="back-button">
           ← Назад
         </button>
-        <h2 className="nation-title">{nation.substring(3)}</h2>
+        <h2 className="nation-title">{nationName.substring(3)}</h2>
       </div>
       
       <input
@@ -66,7 +66,6 @@ function NationPlayers() {
             <th>Имя</th>
             <th>Позиция</th>
             <th>Команда</th>
-            <th>Нация</th>
             <th>Возраст</th>
             <th>Матчей сыграно</th>
             <th>Минут сыграно</th>
@@ -82,7 +81,6 @@ function NationPlayers() {
               <td>{p.name}</td>
               <td>{p.pos}</td>
               <td>{p.squad}</td>
-              <td>{p.nation}</td>
               <td>{p.age}</td>
               <td>{p.mp}</td>
               <td>{p.min}</td>

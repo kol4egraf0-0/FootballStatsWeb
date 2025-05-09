@@ -64,7 +64,6 @@ function PosPlayers() {
         <thead>
           <tr>
             <th>Имя</th>
-            <th>Позиция</th>
             <th>Команда</th>
             <th>Нация</th>
             <th>Возраст</th>
@@ -80,7 +79,6 @@ function PosPlayers() {
           {players.map((p) => (
             <tr key={p.id}>
               <td>{p.name}</td>
-              <td>{p.pos}</td>
               <td>{p.squad}</td>
               <td>{p.nation}</td>
               <td>{p.age}</td>
