@@ -37,7 +37,7 @@ public class PlayerService {
 
     public List<Player> getPlayerByPos(String position) {
         return playerRepository.findAll().stream()
-                .filter(player -> player.getPos().toLowerCase().contains(position.toLowerCase()))
+                .filter(player -> position.equalsIgnoreCase(player.getPos()))
                 .collect(Collectors.toList());
     }
 

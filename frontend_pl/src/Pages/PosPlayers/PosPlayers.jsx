@@ -4,7 +4,7 @@ import axios from "axios";
 import { useParams, useNavigate } from "react-router-dom";
 import "./PosPlayers.css"
 
-function TeamPlayers() {
+function PosPlayers() {
   const [players, setPlayers] = useState([]);
   const [search, setSearch] = useState("");
   const [posName, setPosition] = useState("");
@@ -22,7 +22,7 @@ function TeamPlayers() {
       
       setPlayers(response.data);
       if (response.data.length > 0) {
-        setPosition(response.data[0].squad);
+        setPosition(response.data[0].pos);
       }
     } catch (error) {
       console.error("Ошибка при загрузке игроков:", error);
@@ -45,11 +45,11 @@ function TeamPlayers() {
 
   return (
     <div className="page">
-      <div className="team-players-header">
+      <div className="pos-players-header">
         <button onClick={handleBackClick} className="back-button">
           ← Назад
         </button>
-        <h2 className="team-title">{posName || position}</h2>
+        <h2 className="pos-title">{posName || position}</h2>
       </div>
       
       <input
@@ -98,4 +98,4 @@ function TeamPlayers() {
   );
 }
 
-export default TeamPlayers;
+export default PosPlayers;
