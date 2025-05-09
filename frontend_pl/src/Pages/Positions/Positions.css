@@ -35,7 +35,7 @@
 
 .position-content {
   padding: 1.5rem;
-  color: #333333;
+  color: whitesmoke;
   z-index: 2;
 }
 
@@ -55,7 +55,7 @@
 .player-count {
   font-size: 1.8rem;
   font-weight: 700;
-  color: #333333;
+  color: whitesmoke;
 }
 
 
