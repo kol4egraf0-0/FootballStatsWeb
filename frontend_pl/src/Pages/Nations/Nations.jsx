@@ -54,7 +54,7 @@ function Nations() {
             onClick={() => handleNationClick(nation.name)}
           >
             <div className="nation-content">
-              <h2>{nation.name}</h2>
+              <h2>{nation.name.substring(3)}</h2>
               <div className="nation-info">
                 <span className="player-count">{nation.playerCount}</span>
                 <span>Игроков с данным паспортом</span>
