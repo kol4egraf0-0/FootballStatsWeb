@@ -11,6 +11,7 @@ const Navbar = () => {
             <Link to="/players" className="nav-link">Игроки</Link> 
             <Link to="/teams" className="nav-link">Команды</Link> 
             <Link to="/positions" className="nav-link">Позиции</Link> 
+            <Link to="/nations" className="nav-link">Нации</Link> 
           </nav>
         </div>
       </header>

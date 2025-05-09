@@ -9,6 +9,7 @@ import Teams from './Pages/Teams/Teams'
 import Positions from './Pages/Positions/Positions'
 import TeamPlayers from './Pages/TeamPlayers/TeamPlayers';
 import PosPlayers from './Pages/PosPlayers/PosPlayers';
+import Nations from './Pages/Nations/Nations'
 
 const router = createBrowserRouter([
   {
@@ -19,6 +20,7 @@ const router = createBrowserRouter([
       { path: "/teams", element: <Teams /> },
       { path: "/positions", element: <Positions /> },
       { path: "/players", element: <Players /> },
+      {path: "/nations", element: <Nations />},
       { path: "*", element: <NotFoundPage /> },
       {path: "/team/:team", element: <TeamPlayers />},
       {path: "/position/:position", element: <PosPlayers />}
