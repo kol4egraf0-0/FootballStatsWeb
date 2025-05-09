@@ -38,7 +38,7 @@ function Positions() {
     fetchPlayers();
   }, []);
 
-  const handlepositionClick = (positionName) => {
+  const handlePositionClick = (positionName) => {
     navigate(`/position/${encodeURIComponent(positionName)}`);
   };
 
@@ -52,7 +52,7 @@ function Positions() {
             style={{
               backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)), url(${position.logo})`,
             }}
-            onClick={() => handlepositionClick(position.name)}
+            onClick={() => handlePositionClick(position.name)}
           >
             <div className="position-content">
               <h2>{position.name}</h2>

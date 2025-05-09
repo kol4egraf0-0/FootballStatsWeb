@@ -58,7 +58,7 @@ function Teams() {
               <h2>{team.name}</h2>
               <div className="team-info">
                 <span className="player-count">{team.playerCount}</span>
-                <span>игроков</span>
+                <span>Игроков</span>
               </div>
             </div>
           </div>
