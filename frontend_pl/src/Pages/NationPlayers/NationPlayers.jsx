@@ -7,7 +7,7 @@ import "./NationPlayers.css"
 function NationPlayers() {
   const [players, setPlayers] = useState([]);
   const [search, setSearch] = useState("");
-  const [nationName, setNationName] = useState("");
+  const [setNationName] = useState("");
   const { nation } = useParams();
   const navigate = useNavigate();
 
