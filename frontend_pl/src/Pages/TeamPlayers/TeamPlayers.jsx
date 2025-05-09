@@ -73,7 +73,7 @@ function TeamPlayers() {
             <th>Выходов в старте</th>
             <th>Комплексионное</th>
             <th>Замены</th>
-            <th>Не выход</th>
+            <th>В заявке</th>
           </tr>
         </thead>
         <tbody>

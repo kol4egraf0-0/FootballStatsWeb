@@ -54,7 +54,7 @@ function PosPlayers() {
       
       <input
         type="text"
-        placeholder="Поиск по имени в команде"
+        placeholder="Поиск по имени по позиции"
         value={search}
         onChange={handleSearch}
         className="search-input"
@@ -73,7 +73,7 @@ function PosPlayers() {
             <th>Выходов в старте</th>
             <th>Комплексионное</th>
             <th>Замены</th>
-            <th>Не выход</th>
+            <th>В заявке</th>
           </tr>
         </thead>
         <tbody>
