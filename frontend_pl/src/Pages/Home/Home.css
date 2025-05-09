@@ -3,38 +3,43 @@
     padding: 20px;
     background-color: #f8f9fa;
     color: #212529;
-  }
-  
-  .hero-section {
-    background: linear-gradient(135deg, #2e8b57, #3cb371); 
+    opacity: 0;
+    animation: fadeIn 0.8s ease-out forwards;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #2e8b57, #3cb371);
     color: #fff;
     padding: 40px 30px;
     text-align: center;
     border-radius: 10px;
     margin-bottom: 30px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  }
-  
-  .hero-section h1 {
+    transform: translateY(20px);
+    opacity: 0;
+    animation: slideUp 0.6s ease-out 0.3s forwards;
+}
+
+.hero-section h1 {
     font-size: 2.5rem;
     margin-bottom: 15px;
     font-weight: 700;
-  }
-  
-  .hero-section p {
+}
+
+.hero-section p {
     font-size: 1.1rem;
     opacity: 0.9;
-  }
-  
-  .cards-section {
+}
+
+.cards-section {
     display: flex;
     flex-wrap: wrap;
     gap: 25px;
     justify-content: center;
     margin-top: 30px;
-  }
-  
-  .info-card {
+}
+
+.info-card {
     background-color: white;
     padding: 25px;
     border-radius: 8px;
@@ -42,31 +47,35 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
     transition: all 0.3s ease;
     border-top: 3px solid #2e8b57;
-  }
-  
-  .info-card:hover {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: cardAppear 0.5s ease-out forwards;
+}
+
+.info-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-  }
-  
-  .info-card h2 {
+}
+
+.info-card h2 {
     margin-bottom: 15px;
     font-size: 1.3rem;
     color: #2e8b57;
     font-weight: 600;
-  }
-  
-  .footer {
+}
+
+.footer {
     margin-top: 50px;
     text-align: center;
     font-size: 0.9rem;
     color: #6c757d;
     padding-top: 20px;
     border-top: 1px solid #dee2e6;
-  }
-  
-  /* Дополнительные стили для футбольной тематики */
-  .stats-badge {
+    opacity: 0;
+    animation: fadeIn 0.8s ease-out 1.3s forwards;
+}
+
+.stats-badge {
     background-color: #2e8b57;
     color: white;
     padding: 3px 10px;
@@ -74,4 +83,47 @@
     font-size: 0.8rem;
     display: inline-block;
     margin-left: 10px;
-  }
+}
+
+.info-card:nth-child(1) { animation-delay: 0.5s; }
+.info-card:nth-child(2) { animation-delay: 0.7s; }
+.info-card:nth-child(3) { animation-delay: 0.9s; }
+.info-card:nth-child(4) { animation-delay: 1.1s; }
+
+@keyframes cardAppear {
+    from { 
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to { 
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideUp {
+    from { 
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to { 
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from { 
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to { 
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
