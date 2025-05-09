@@ -50,7 +50,7 @@ function Teams() {
             key={team.name}
             className="team-card"
             style={{
-              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)), url(${team.logo})`,
+              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url(${team.logo})`,
             }}
             onClick={() => handleTeamClick(team.name)}
           >
