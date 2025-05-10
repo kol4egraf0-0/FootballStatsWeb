@@ -39,6 +39,12 @@
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
   }
   
+  th.sortable {
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+  }
+
   @media (max-width: 768px) {
     .nation-players-header {
       flex-direction: column;
