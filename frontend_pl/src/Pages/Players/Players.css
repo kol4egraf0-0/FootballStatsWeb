@@ -82,6 +82,13 @@
   transform: translateY(0);
 }
 
+th.sortable {
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+}
+
+
 @keyframes fadeIn {
   from {
     opacity: 0;

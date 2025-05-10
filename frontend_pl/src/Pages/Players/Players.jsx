@@ -57,6 +57,11 @@ function Players() {
     });
   };
 
+    const getSortIndicator = (key) => {
+      if (sortConfig.key !== key) return '';
+      return sortConfig.direction === 'asc' ? ' ▲' : ' ▼';
+    };
+
   return (
     <div className="page">
       <div className="team-players-header">
@@ -74,17 +79,17 @@ function Players() {
         <table className="players-table">
           <thead>
             <tr>
-              <th onClick={() => handleSort('name')}>Имя</th>
-              <th onClick={() => handleSort('pos')}>Позиция</th>
-              <th onClick={() => handleSort('squad')}>Команда</th>
-              <th onClick={() => handleSort('nation')}>Нация</th>
-              <th onClick={() => handleSort('age')}>Возраст</th>
-              <th onClick={() => handleSort('mp')}>Матчей сыграно</th>
-              <th onClick={() => handleSort('min')}>Минут сыграно</th>
-              <th onClick={() => handleSort('starts')}>Выходов в старте</th>
-              <th onClick={() => handleSort('compl')}>Комплексионное</th>
-              <th onClick={() => handleSort('subs')}>Замены</th>
-              <th onClick={() => handleSort('unsub')}>В заявке</th>
+              <th onClick={() => handleSort('name')} className="sortable">Имя{getSortIndicator('name')}</th>
+              <th onClick={() => handleSort('pos')} className="sortable">Позиция{getSortIndicator('pos')}</th>
+              <th onClick={() => handleSort('squad')} className="sortable">Команда{getSortIndicator('squad')}</th>
+              <th onClick={() => handleSort('nation')} className="sortable">Нация{getSortIndicator('nation')}</th>
+              <th onClick={() => handleSort('age')} className="sortable">Возраст{getSortIndicator('age')}</th>
+              <th onClick={() => handleSort('mp')} className="sortable">Матчей сыграно{getSortIndicator('mp')}</th>
+              <th onClick={() => handleSort('min')} className="sortable">Минут сыграно{getSortIndicator('min')}</th>
+              <th onClick={() => handleSort('starts')} className="sortable">Выходов в старте{getSortIndicator('starts')}</th>
+              <th onClick={() => handleSort('compl')} className="sortable">Комплексионное{getSortIndicator('compl')}</th>
+              <th onClick={() => handleSort('subs')} className="sortable">Замены{getSortIndicator('subs')}</th>
+              <th onClick={() => handleSort('unsub')} className="sortable">В заявке{getSortIndicator('unsub')}</th>
             </tr>
           </thead>
           <tbody>
