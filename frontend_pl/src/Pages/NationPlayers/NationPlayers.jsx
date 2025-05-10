@@ -10,7 +10,19 @@ function NationPlayers() {
   const [nationName, setNationName] = useState("");
   const { nation } = useParams();
   const navigate = useNavigate();
-
+  const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' });
+  
+    const sortedPlayers = [...players].sort((a, b) => { //spread - ...
+      if (sortConfig.key === null) return 0;
+  
+      const valA = a[sortConfig.key];
+      const valB = b[sortConfig.key];
+  
+      if (valA < valB) return sortConfig.direction === 'asc' ? -1 : 1;
+      if (valA > valB) return sortConfig.direction === 'asc' ? 1 : -1;
+      return 0;
+    });
+  
   const fetchPlayers = async (query, isSearch = false) => {
     try {
       const params = { nation };
@@ -43,6 +55,23 @@ function NationPlayers() {
     navigate(-1); 
   };
 
+  const handleSort = (key) => {
+    setSortConfig((prev) => {
+      if (prev.key === key) {
+        return {
+          key,
+          direction: prev.direction === 'asc' ? 'desc' : 'asc',
+        };
+      }
+      return { key, direction: 'asc' };
+    });
+  };
+
+  const getSortIndicator = (key) => {
+      if (sortConfig.key !== key) return '';
+      return sortConfig.direction === 'asc' ? ' ▲' : ' ▼';
+    };
+
   return (
     <div className="page">
       <div className="nation-players-header">
@@ -63,20 +92,20 @@ function NationPlayers() {
       <table className="players-table">
         <thead>
           <tr>
-            <th>Имя</th>
-            <th>Позиция</th>
-            <th>Команда</th>
-            <th>Возраст</th>
-            <th>Матчей сыграно</th>
-            <th>Минут сыграно</th>
-            <th>Выходов в старте</th>
-            <th>Комплексионное</th>
-            <th>Замены</th>
-            <th>В заявке</th>
+              <th onClick={() => handleSort('name')} className="sortable">Имя{getSortIndicator('name')}</th>
+              <th onClick={() => handleSort('pos')} className="sortable">Позиция{getSortIndicator('pos')}</th>
+              <th onClick={() => handleSort('squad')} className="sortable">Команда{getSortIndicator('squad')}</th>
+              <th onClick={() => handleSort('age')} className="sortable">Возраст{getSortIndicator('age')}</th>
+              <th onClick={() => handleSort('mp')} className="sortable">Матчей сыграно{getSortIndicator('mp')}</th>
+              <th onClick={() => handleSort('min')} className="sortable">Минут сыграно{getSortIndicator('min')}</th>
+              <th onClick={() => handleSort('starts')} className="sortable">Выходов в старте{getSortIndicator('starts')}</th>
+              <th onClick={() => handleSort('compl')} className="sortable">Комплексионное{getSortIndicator('compl')}</th>
+              <th onClick={() => handleSort('subs')} className="sortable">Замены{getSortIndicator('subs')}</th>
+              <th onClick={() => handleSort('unsub')} className="sortable">В заявке{getSortIndicator('unsub')}</th>
           </tr>
         </thead>
         <tbody>
-          {players.map((p) => (
+          {sortedPlayers.map((p) => (
             <tr key={p.id}>
               <td>{p.name}</td>
               <td>{p.pos}</td>

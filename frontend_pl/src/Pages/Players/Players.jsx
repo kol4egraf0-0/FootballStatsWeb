@@ -9,7 +9,7 @@ function Players() {
   const navigate = useNavigate();
   const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' });
 
-  const sortedPlayers = [...players].sort((a, b) => {
+  const sortedPlayers = [...players].sort((a, b) => { //spread - ...
     if (sortConfig.key === null) return 0;
 
     const valA = a[sortConfig.key];
@@ -57,7 +57,7 @@ function Players() {
     });
   };
 
-    const getSortIndicator = (key) => {
+  const getSortIndicator = (key) => {
       if (sortConfig.key !== key) return '';
       return sortConfig.direction === 'asc' ? ' ▲' : ' ▼';
     };
